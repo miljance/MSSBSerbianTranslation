@@ -1,0 +1,42 @@
+{
+  "id": "3692d930-630f-48aa-8c5d-8dc13e7ed72c",
+  "name": "Serbian Translations for Subscription Billing",
+  "publisher": "Antares Apps",
+  "version": "2025.12.6.0",
+  "brief": "Serbian Translations for Subscription Billing",
+  "description": "Serbian Translations for Subscription Billing",
+  "privacyStatement": "",
+  "EULA": "",
+  "help": "",
+  "url": "",
+  "logo": "Logo.png",
+  "dependencies": [
+    {
+      "id": "3099ffc7-4cf7-4df6-9b96-7e4bc2bb587c",
+      "name": "Subscription Billing",
+      "publisher": "Microsoft",
+      "version": "27.0.0.0"
+    }
+  ],
+  "screenshots": [],
+  "platform": "27.0.0.0",
+  "application": "27.0.0.0",
+  "idRanges": [
+    {
+      "from": 90000,
+      "to": 90149
+    }
+  ],
+  "resourceExposurePolicy": {
+    "allowDebugging": true,
+    "allowDownloadingSource": true,
+    "includeSourceInSymbolFile": true
+  },
+  "runtime": "16.0",
+  "features": [
+    "TranslationFile"
+  ],
+  "supportedLocales": [
+    "sr-Latn-RS"
+  ]
+}
