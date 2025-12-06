@@ -15,11 +15,23 @@
           <note from="Developer" annotates="general" priority="2"/>
           <note from="Xliff Generator" annotates="general" priority="3">PageExtension Sub. Billing Role Center - Action PBI Reports - Property Caption</note>
         </trans-unit>
+        <trans-unit id="Page 2030015066 - Action 4187246573 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 2030015066">
+          <source>The Billing Schedule report provides a forecast of vendor and customer invoiced amounts according to the contractual billing rhythm. It helps to identify future development of incoming and outgoing cash from billed subscriptions.</source>
+          <target state="needs-l10n">Izveštaj o rasporedu naplate daje prognozu fakturisanih iznosa dobavljača i kupaca u skladu sa ugovornim ritmom naplate. Pomaže u identifikaciji budućeg razvoja dolaznog i odlaznog novca od naplaćenih pretplata.</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension Sub. Billing Role Center - Action Billing Schedule (Power BI) - Property ToolTip</note>
+        </trans-unit>
         <trans-unit id="Page 2030015066 - Action 4187246573 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 2030015066">
           <source>Billing Schedule (Power BI)</source>
           <target state="translated">Raspored fakturisanja (Power BI)</target>
           <note from="Developer" annotates="general" priority="2"/>
           <note from="Xliff Generator" annotates="general" priority="3">PageExtension Sub. Billing Role Center - Action Billing Schedule (Power BI) - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2030015066 - Action 3846084135 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 2030015066">
+          <source>The Churn Analysis report breaks down churn by various dimensions such as contract term, contract type or product.</source>
+          <target state="needs-l10n">Izveštaj Churn Analiza razbija bućkanje po različitim dimenzijama, kao što su rok ugovora, vrsta ugovora ili proizvod.</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension Sub. Billing Role Center - Action Churn Analysis (Power BI) - Property ToolTip</note>
         </trans-unit>
         <trans-unit id="Page 2030015066 - Action 3846084135 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 2030015066">
           <source>Churn Analysis (Power BI)</source>
@@ -27,11 +39,23 @@
           <note from="Developer" annotates="general" priority="2"/>
           <note from="Xliff Generator" annotates="general" priority="3">PageExtension Sub. Billing Role Center - Action Churn Analysis (Power BI) - Property Caption</note>
         </trans-unit>
+        <trans-unit id="Page 2030015066 - Action 2856052287 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 2030015066">
+          <source>The Customer Deferrals report provides an overview of deferred vs. released subscription sales amount.</source>
+          <target state="needs-l10n">Izveštaj o odlaganju kupaca daje pregled odloženog u odnosu na objavljeni iznos prodaje pretplate.</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension Sub. Billing Role Center - Action Customer Deferrals (Power BI) - Property ToolTip</note>
+        </trans-unit>
         <trans-unit id="Page 2030015066 - Action 2856052287 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 2030015066">
           <source>Customer Deferrals (Power BI)</source>
           <target state="translated">Razgraničenja kupaca (Power BI)</target>
           <note from="Developer" annotates="general" priority="2"/>
           <note from="Xliff Generator" annotates="general" priority="3">PageExtension Sub. Billing Role Center - Action Customer Deferrals (Power BI) - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2030015066 - Action 1504186999 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 2030015066">
+          <source>The Revenue Analysis report breaks down Monthly Recurring Revenue by various dimension such as billing rhythm, contract type or customer.</source>
+          <target state="needs-l10n">Izveštaj o analizi prihoda razbija mesečne ponavljajuće prihode po različitim dimenzijama, kao što su ritam naplate, vrsta ugovora ili kupac.</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension Sub. Billing Role Center - Action Revenue Analysis (Power BI) - Property ToolTip</note>
         </trans-unit>
         <trans-unit id="Page 2030015066 - Action 1504186999 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 2030015066">
           <source>Revenue Analysis (Power BI)</source>
@@ -39,11 +63,23 @@
           <note from="Developer" annotates="general" priority="2"/>
           <note from="Xliff Generator" annotates="general" priority="3">PageExtension Sub. Billing Role Center - Action Revenue Analysis (Power BI) - Property Caption</note>
         </trans-unit>
+        <trans-unit id="Page 2030015066 - Action 3913108116 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 2030015066">
+          <source>The Revenue by Customer report breaks down subscription performance by customer and item, highlighting metrics such as Monthly Recurring Revenue, Monthly Recurring Cost, Monthly Net Profit Amount and Monthly Net Profit %. This report provides detailed insights into which customers and items are driving subscription revenue and profitability.</source>
+          <target state="needs-l10n">Izveštaj o prihodima od strane kupaca razbija performanse pretplate po kupcima i stavkama, naglašavajući metrike kao što su mesečni ponavljajući prihod, mesečni ponavljajući trošak, mesečni iznos neto dobiti i mesečni neto profit%. Ovaj izveštaj pruža detaljan uvid u to koji kupci i stavke pokreću prihod od pretplate i profitabilnost.</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension Sub. Billing Role Center - Action Revenue by Customer (Power BI) - Property ToolTip</note>
+        </trans-unit>
         <trans-unit id="Page 2030015066 - Action 3913108116 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 2030015066">
           <source>Revenue by Customer (Power BI)</source>
           <target state="translated">Prihod po kupcu (Power BI)</target>
           <note from="Developer" annotates="general" priority="2"/>
           <note from="Xliff Generator" annotates="general" priority="3">PageExtension Sub. Billing Role Center - Action Revenue by Customer (Power BI) - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2030015066 - Action 2759052531 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 2030015066">
+          <source>The Revenue by Item report breaks down subscription performance by item category, highlighting metrics such as Monthly Recurring Revenue, Monthly Recurring Cost, Monthly Net Profit Amount and Monthly Net Profit %. This report provides detailed insights into which categories and items are driving subscription revenue and profitability.</source>
+          <target state="needs-l10n">Izveštaj o prihodima po stavkama raščlanjuje performanse pretplate po kategorijama stavki, naglašavajući metrike kao što su mesečni ponavljajući prihod, mesečni ponavljajući trošak, mesečni iznos neto dobiti i mesečni neto profit%. Ovaj izveštaj pruža detaljan uvid u to koje kategorije i stavke pokreću prihod od pretplate i profitabilnost.</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension Sub. Billing Role Center - Action Revenue by Item (Power BI) - Property ToolTip</note>
         </trans-unit>
         <trans-unit id="Page 2030015066 - Action 2759052531 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 2030015066">
           <source>Revenue by Item (Power BI)</source>
@@ -51,11 +87,23 @@
           <note from="Developer" annotates="general" priority="2"/>
           <note from="Xliff Generator" annotates="general" priority="3">PageExtension Sub. Billing Role Center - Action Revenue by Item (Power BI) - Property Caption</note>
         </trans-unit>
+        <trans-unit id="Page 2030015066 - Action 2857546323 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 2030015066">
+          <source>The Revenue by Salesperson report breaks down subscription performance by Salesperson, highlighting metrics such as Monthly Recurring Revenue, Monthly Recurring Cost, Monthly Net Profit Amount and Churn.</source>
+          <target state="needs-l10n">Izveštaj o prihodima od strane prodavca razbija performanse pretplate od strane prodavca, naglašavajući metrike kao što su mesečni ponavljajući prihod, mesečni ponavljajući trošak, mesečni iznos neto dobiti i odliv.</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension Sub. Billing Role Center - Action Revenue by Salesperson (Power BI) - Property ToolTip</note>
+        </trans-unit>
         <trans-unit id="Page 2030015066 - Action 2857546323 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 2030015066">
           <source>Revenue by Salesperson (Power BI)</source>
           <target state="translated">Prihod po prodavcu (Power BI)</target>
           <note from="Developer" annotates="general" priority="2"/>
           <note from="Xliff Generator" annotates="general" priority="3">PageExtension Sub. Billing Role Center - Action Revenue by Salesperson (Power BI) - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2030015066 - Action 3858226368 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 2030015066">
+          <source>The Revenue Development report shows the change in monthly recurring revenue and helps to identify its various sources such as churn, downgrades, new subscriptions or upgrades.</source>
+          <target state="needs-l10n">Izveštaj o razvoju prihoda pokazuje promenu u mesečnim ponavljajućim prihodima i pomaže da se identifikuju njegovi različiti izvori, kao što su odliv, degradacije, nove pretplate ili nadogradnje.</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension Sub. Billing Role Center - Action Revenue Development (Power BI) - Property ToolTip</note>
         </trans-unit>
         <trans-unit id="Page 2030015066 - Action 3858226368 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 2030015066">
           <source>Revenue Development (Power BI)</source>
@@ -63,11 +111,23 @@
           <note from="Developer" annotates="general" priority="2"/>
           <note from="Xliff Generator" annotates="general" priority="3">PageExtension Sub. Billing Role Center - Action Revenue Development (Power BI) - Property Caption</note>
         </trans-unit>
+        <trans-unit id="Page 2030015066 - Action 3336162308 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 2030015066">
+          <source>The Revenue YoY report compares Monthly Recurring Revenue performance across a year-over-year period.</source>
+          <target state="needs-l10n">Izveštaj o prihodima na godišnjoj razini upoređuje mesečne performanse ponavljajućih prihoda u odnosu na prethodnu godinu.</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension Sub. Billing Role Center - Action Revenue YoY (Power BI) - Property ToolTip</note>
+        </trans-unit>
         <trans-unit id="Page 2030015066 - Action 3336162308 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 2030015066">
           <source>Revenue YoY (Power BI)</source>
           <target state="translated">Prihod po godinama (Power BI)</target>
           <note from="Developer" annotates="general" priority="2"/>
           <note from="Xliff Generator" annotates="general" priority="3">PageExtension Sub. Billing Role Center - Action Revenue YoY (Power BI) - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2030015066 - Action 4256378890 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 2030015066">
+          <source>The Sales and Cost forecast report provides the forecast of Monthly Recurring Revenue and Monthly Recurring Cost for the future months and years. This report provides detailed insights into which salespersons and customers are driving future subscription performance.</source>
+          <target state="needs-l10n">Izveštaj o prognozi prodaje i troškova daje prognozu mesečnih ponavljajućih prihoda i mesečnih ponavljajućih troškova za naredne mesece i godine. Ovaj izveštaj pruža detaljan uvid u to koji prodavci i kupci pokreću buduće performanse pretplate.</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension Sub. Billing Role Center - Action Sales and Cost forecast (Power BI) - Property ToolTip</note>
         </trans-unit>
         <trans-unit id="Page 2030015066 - Action 4256378890 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 2030015066">
           <source>Sales and Cost forecast (Power BI)</source>
@@ -75,11 +135,23 @@
           <note from="Developer" annotates="general" priority="2"/>
           <note from="Xliff Generator" annotates="general" priority="3">PageExtension Sub. Billing Role Center - Action Sales and Cost forecast (Power BI) - Property Caption</note>
         </trans-unit>
+        <trans-unit id="Page 2030015066 - Action 4206933229 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 2030015066">
+          <source>The Subscription Billing Report offers a consolidated view of all subscription report pages, conveniently embedded into a single page for easy access.</source>
+          <target state="needs-l10n">Izveštaj o naplati pretplate nudi konsolidovani prikaz svih stranica izveštaja o pretplati, pogodno ugrađen u jednu stranicu radi lakšeg pristupa.</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension Sub. Billing Role Center - Action Subscription Billing Report (Power BI) - Property ToolTip</note>
+        </trans-unit>
         <trans-unit id="Page 2030015066 - Action 4206933229 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 2030015066">
           <source>Subscription Billing Report (Power BI)</source>
           <target state="translated">Izveštaj o fakturisanju pretplate (Power BI)</target>
           <note from="Developer" annotates="general" priority="2"/>
           <note from="Xliff Generator" annotates="general" priority="3">PageExtension Sub. Billing Role Center - Action Subscription Billing Report (Power BI) - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2030015066 - Action 3574335983 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 2030015066">
+          <source>The Subscription Overview provides a comprehensive view of subscription performance, offering insights into metrics such as Monthly Recurring Revenue, Total Contract Value, Churn and top-performing customers or vendors.</source>
+          <target state="needs-l10n">Pregled pretplate pruža sveobuhvatan pregled performansi pretplate, nudeći uvid u metrike kao što su mesečni ponavljajući prihodi, ukupna vrednost ugovora, odliv i kupci ili prodavci sa najboljim performansama.</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension Sub. Billing Role Center - Action Subscription Overview (Power BI) - Property ToolTip</note>
         </trans-unit>
         <trans-unit id="Page 2030015066 - Action 3574335983 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 2030015066">
           <source>Subscription Overview (Power BI)</source>
@@ -87,17 +159,35 @@
           <note from="Developer" annotates="general" priority="2"/>
           <note from="Xliff Generator" annotates="general" priority="3">PageExtension Sub. Billing Role Center - Action Subscription Overview (Power BI) - Property Caption</note>
         </trans-unit>
+        <trans-unit id="Page 2030015066 - Action 739632048 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 2030015066">
+          <source>The Total Contract Value Analysis report breaks down Total Contract Value by various dimension such as billing rhythm, contract type or customer.</source>
+          <target state="needs-l10n">Izveštaj o analizi ukupne vrednosti ugovora razbija ukupnu vrednost ugovora po različitim dimenzijama, kao što su ritam naplate, tip ugovora ili kupac.</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension Sub. Billing Role Center - Action Total Contract Value Analysis (Power BI) - Property ToolTip</note>
+        </trans-unit>
         <trans-unit id="Page 2030015066 - Action 739632048 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 2030015066">
           <source>Total Contract Value Analysis (Power BI)</source>
           <target state="translated">Analiza ukupne vrednosti ugovora (Power BI)</target>
           <note from="Developer" annotates="general" priority="2"/>
           <note from="Xliff Generator" annotates="general" priority="3">PageExtension Sub. Billing Role Center - Action Total Contract Value Analysis (Power BI) - Property Caption</note>
         </trans-unit>
+        <trans-unit id="Page 2030015066 - Action 1488882403 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 2030015066">
+          <source>The Total Contract Value YoY report compares the Total Contract Value and Active Customers across a year-over-year period.</source>
+          <target state="needs-l10n">Izveštaj o ukupnoj vrednosti ugovora u odnosu na prethodnu godinu upoređuje ukupnu vrednost ugovora i aktivne kupce u periodu u odnosu na prethodnu godinu.</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension Sub. Billing Role Center - Action Total Contract Value YoY (Power BI) - Property ToolTip</note>
+        </trans-unit>
         <trans-unit id="Page 2030015066 - Action 1488882403 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 2030015066">
           <source>Total Contract Value YoY (Power BI)</source>
           <target state="translated">Ukupna vrednost ugovora po godinama (Power BI)</target>
           <note from="Developer" annotates="general" priority="2"/>
           <note from="Xliff Generator" annotates="general" priority="3">PageExtension Sub. Billing Role Center - Action Total Contract Value YoY (Power BI) - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2030015066 - Action 3499695735 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 2030015066">
+          <source>The Vendor Deferrals report provides an overview of deferred vs. released subscription cost amount.</source>
+          <target state="needs-l10n">Izveštaj o odlaganju dobavljača daje pregled odloženog u odnosu na oslobođeni iznos troškova pretplate.</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension Sub. Billing Role Center - Action Vendor Deferrals (Power BI) - Property ToolTip</note>
         </trans-unit>
         <trans-unit id="Page 2030015066 - Action 3499695735 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 2030015066">
           <source>Vendor Deferrals (Power BI)</source>
@@ -126,7 +216,7 @@
         <trans-unit id="Table 65360695 - NamedType 163380746" size-unit="char" translate="yes" xml:space="preserve">
           <source>Only last Billing Line for Subscription Line can be deleted or all Billing Lines. Please make your selection accordingly or use the "Clear Billing Proposal" action. (%1)</source>
           <target state="translated">Može se obrisati samo poslednji red fakturisanja za red pretplate ili svi redovi fakturisanja. Izaberite odgovarajuću opciju ili koristite akciju "Očistiti predlog fakturisanja”. (%1)</target>
-          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Developer" annotates="general" priority="2">%1=Subscription Header No.</note>
           <note from="Xliff Generator" annotates="general" priority="3">Table Billing Line - NamedType OnlyLastServiceLineCanBeDeletedErr</note>
         </trans-unit>
         <trans-unit id="Table 65360695 - Field 636392376 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
@@ -140,6 +230,18 @@
           <target state="translated">Fakturisati od</target>
           <note from="Developer" annotates="general" priority="2"/>
           <note from="Xliff Generator" annotates="general" priority="3">Table Billing Line - Field Billing from - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 65360695 - Field 653889378 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies whether the billing period has been adjusted manually. This is taken into account by the period calculation and may have an effect on the creation of future billing proposals.</source>
+          <target state="needs-l10n">Određuje da li je obračunski period prilagođen ručno. Ovo se uzima u obzir izračunavanjem perioda i može uticati na stvaranje budućih predloga za naplatu.</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Billing Line - Field Billing Reference Date Changed - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Table 65360695 - Field 653889378 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Billing Reference Date Changed</source>
+          <target state="needs-l10n">Referentni datum naplate je promenjen</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Billing Line - Field Billing Reference Date Changed - Property Caption</note>
         </trans-unit>
         <trans-unit id="Table 65360695 - Field 2476598635 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
           <source>Billing Rhythm</source>
@@ -344,6 +446,18 @@
           <target state="translated">Fakturisati od</target>
           <note from="Developer" annotates="general" priority="2"/>
           <note from="Xliff Generator" annotates="general" priority="3">Table Billing Line Archive - Field Billing from - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3930282697 - Field 653889378 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies whether the billing period has been adjusted manually. This is taken into account by the period calculation and may have an effect on the creation of future billing proposals.</source>
+          <target state="needs-l10n">Određuje da li je obračunski period prilagođen ručno. Ovo se uzima u obzir izračunavanjem perioda i može uticati na stvaranje budućih predloga za naplatu.</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Billing Line Archive - Field Billing Reference Date Changed - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Table 3930282697 - Field 653889378 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Billing Reference Date Changed</source>
+          <target state="needs-l10n">Referentni datum naplate je promenjen</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Billing Line Archive - Field Billing Reference Date Changed - Property Caption</note>
         </trans-unit>
         <trans-unit id="Table 3930282697 - Field 2476598635 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
           <source>Billing Rhythm</source>
@@ -579,6 +693,12 @@
           <note from="Developer" annotates="general" priority="2"/>
           <note from="Xliff Generator" annotates="general" priority="3">Table Cust. Sub. Contract Deferral - Field Bill-to Customer No. - Property Caption</note>
         </trans-unit>
+        <trans-unit id="Table 3964310572 - Field 4198939294 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Currency Code</source>
+          <target state="translated">Šifra valute</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Cust. Sub. Contract Deferral - Field Currency Code - Property Caption</note>
+        </trans-unit>
         <trans-unit id="Table 3964310572 - Field 4190130733 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
           <source>Customer No.</source>
           <target state="translated">Br. kupca</target>
@@ -801,6 +921,12 @@
           <note from="Developer" annotates="general" priority="2"/>
           <note from="Xliff Generator" annotates="general" priority="3">Table Cust. Sub. Contract Line - NamedType OneContractLineSelectedErr</note>
         </trans-unit>
+        <trans-unit id="Table 1208888811 - NamedType 1855805941" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Contract lines cannot be deleted as long as open Contract Deferrals exists. Please release the Contract Deferrals before deleting the Contract line.</source>
+          <target state="needs-l10n">Linije ugovora ne mogu se izbrisati sve dok postoje otvorena odlaganja ugovora. Molimo vas da otpustite odlaganje ugovora pre brisanja linije ugovora.</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Cust. Sub. Contract Line - NamedType UnreleasedCustSubContractDeferralExistsErr</note>
+        </trans-unit>
         <trans-unit id="Table 1208888811 - Field 1778072510 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
           <source>Closed</source>
           <target state="translated">Zatvoreno</target>
@@ -1020,7 +1146,7 @@
         <trans-unit id="Table 607896767 - Method 3281705089 - NamedType 1412109137" size-unit="char" translate="yes" xml:space="preserve">
           <source>The Currency Code for the selected customer is different from the current Currency Code in Customer Contract %1. If the customer is changed the currency and exchange rate needs to be updated.</source>
           <target state="translated">Šifra valute za izabranog kupca razlikuje se od trenutne šifre valute u ugovoru o pretplati sa kupcem %1. Ako se kupac promeni, potrebno je ažurirati valutu i kurs.</target>
-          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Developer" annotates="general" priority="2">%1 = Contract number</note>
           <note from="Xliff Generator" annotates="general" priority="3">Table Customer Subscription Contract - Method ShouldReplaceCurrencyCode - NamedType CurrencyCodeWillBeChangedQst</note>
         </trans-unit>
         <trans-unit id="Table 607896767 - Field 1090351696 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
@@ -1434,7 +1560,7 @@
         <trans-unit id="Table 893915867 - Field 1358710565 - Method 2126772001 - NamedType 1141256684" size-unit="char" translate="yes" xml:space="preserve">
           <source>The length of the translation must not exceed %1 characters (current length: %2).</source>
           <target state="translated">Dužina prevoda ne sme da premaši %1 znakova (trenutna dužina: %2).</target>
-          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Developer" annotates="general" priority="2">%1=Field Length, %2=Current Length</note>
           <note from="Xliff Generator" annotates="general" priority="3">Table Field Translation - Field Translation - Method OnValidate - NamedType TranslationTooLongErr</note>
         </trans-unit>
         <trans-unit id="Table 3456091 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
@@ -2050,21 +2176,21 @@
           <note from="Xliff Generator" annotates="general" priority="3">Table Item Subscription Package - Property Caption</note>
         </trans-unit>
         <trans-unit id="Table 2492290192 - NamedType 940112322" size-unit="char" translate="yes" xml:space="preserve">
-          <source>Subscription Package Lines, which are discounts can only be assigned to Subscription Items.</source>
-          <target state="translated">Redovi pretplatničkog paketa koji predstavljaju popuste mogu se dodeliti samo artiklima pretplate.</target>
+          <source>Subscription Package Lines, which are discounts, can only be assigned to Subscription Items.</source>
+          <target state="needs-l10n">Pretplatničke paketne linije, koje su popusti, mogu se dodeliti samo pretplatničkim stavkama.</target>
           <note from="Developer" annotates="general" priority="2"/>
           <note from="Xliff Generator" annotates="general" priority="3">Table Item Subscription Package - NamedType DiscountCannotBeAssignedErr</note>
         </trans-unit>
         <trans-unit id="Table 2492290192 - NamedType 4225378973" size-unit="char" translate="yes" xml:space="preserve">
           <source>The %1 %2 can not be used with Item %3, because at least one of the Service Commitment Package lines is missing an %4.</source>
           <target state="translated">%1 %2 ne može da se koristi sa artiklom %3, jer bar jednom redu paketa servisne obaveze nedostaje %4.</target>
-          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Developer" annotates="general" priority="2">%1 = Table Caption, %2 = Code, %3 = Item No., %4 = Invoicing Item No.</note>
           <note from="Xliff Generator" annotates="general" priority="3">Table Item Subscription Package - NamedType EmptyInvoicingItemNoInPackageLineErr</note>
         </trans-unit>
         <trans-unit id="Table 2492290192 - Method 1726008176 - NamedType 1069883375" size-unit="char" translate="yes" xml:space="preserve">
           <source>Open %1</source>
           <target state="translated">Otvoriti %1</target>
-          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Developer" annotates="general" priority="2">%1 = Table Caption</note>
           <note from="Xliff Generator" annotates="general" priority="3">Table Item Subscription Package - Method ErrorIfPackageLineInvoicedViaContractWithoutInvoicingItemExist - NamedType OpenSubscriptionPackageTxt</note>
         </trans-unit>
         <trans-unit id="Table 2492290192 - Field 3004954119 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
@@ -2150,6 +2276,12 @@
           <target state="translated">Ritam fakturisanja</target>
           <note from="Developer" annotates="general" priority="2"/>
           <note from="Xliff Generator" annotates="general" priority="3">Table Overdue Subscription Line - Field Billing Rhythm - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 4218218065 - Field 4198939294 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Currency Code</source>
+          <target state="translated">Šifra valute</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Overdue Subscription Line - Field Currency Code - Property Caption</note>
         </trans-unit>
         <trans-unit id="Table 4218218065 - Field 3310956332 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
           <source>Discount %</source>
@@ -2268,13 +2400,13 @@
         <trans-unit id="Table 1998007779 - NamedType 1606888371" size-unit="char" translate="yes" xml:space="preserve">
           <source>%1 cannot be after %2.</source>
           <target state="translated">%1 ne može biti posle %2.</target>
-          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Developer" annotates="general" priority="2">%1=Field Caption, %2=Field Caption</note>
           <note from="Xliff Generator" annotates="general" priority="3">Table Planned Subscription Line - NamedType DateAfterDateErr</note>
         </trans-unit>
         <trans-unit id="Table 1998007779 - NamedType 723183544" size-unit="char" translate="yes" xml:space="preserve">
           <source>%1 cannot be before %2.</source>
           <target state="translated">%1 ne može biti pre %2.</target>
-          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Developer" annotates="general" priority="2">%1=Field Caption, %2=Field Caption</note>
           <note from="Xliff Generator" annotates="general" priority="3">Table Planned Subscription Line - NamedType DateBeforeDateErr</note>
         </trans-unit>
         <trans-unit id="Table 1998007779 - Field 636392376 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
@@ -2667,6 +2799,12 @@
           <note from="Developer" annotates="general" priority="2"/>
           <note from="Xliff Generator" annotates="general" priority="3">Table Sales Service Commitment Buff. - Field Amount Including VAT - Property Caption</note>
         </trans-unit>
+        <trans-unit id="Table 1048802769 - Field 4198939294 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Currency Code</source>
+          <target state="translated">Šifra valute</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Sales Service Commitment Buff. - Field Currency Code - Property Caption</note>
+        </trans-unit>
         <trans-unit id="Table 1048802769 - Field 883711285 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
           <source>Entry No.</source>
           <target state="translated">Br. stavke</target>
@@ -2768,6 +2906,12 @@
           <target state="translated">Način obračuna osnovice</target>
           <note from="Developer" annotates="general" priority="2"/>
           <note from="Xliff Generator" annotates="general" priority="3">Table Sales Sub. Line Archive - Field Calculation Base Type - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 933609418 - Field 4198939294 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Currency Code</source>
+          <target state="translated">Šifra valute</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Sales Sub. Line Archive - Field Currency Code - Property Caption</note>
         </trans-unit>
         <trans-unit id="Table 933609418 - Field 2725149570 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
           <source>Customer Price Group</source>
@@ -3225,6 +3369,12 @@
           <note from="Developer" annotates="general" priority="2"/>
           <note from="Xliff Generator" annotates="general" priority="3">Table Sub. Contr. Price Update Line - Field Additional Amount - Property Caption</note>
         </trans-unit>
+        <trans-unit id="Table 3665744518 - Field 4198939294 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Currency Code</source>
+          <target state="translated">Šifra valute</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Sub. Contr. Price Update Line - Field Currency Code - Property Caption</note>
+        </trans-unit>
         <trans-unit id="Table 3665744518 - Field 3310956332 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
           <source>Discount %</source>
           <target state="translated">Popust %</target>
@@ -3399,6 +3549,12 @@
           <note from="Developer" annotates="general" priority="2"/>
           <note from="Xliff Generator" annotates="general" priority="3">Table Sub. Contract Renewal Line - Field Billing Rhythm - Property Caption</note>
         </trans-unit>
+        <trans-unit id="Table 2507546340 - Field 4198939294 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Currency Code</source>
+          <target state="translated">Šifra valute</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Sub. Contract Renewal Line - Field Currency Code - Property Caption</note>
+        </trans-unit>
         <trans-unit id="Table 2507546340 - Field 2852966117 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
           <source>Error Message</source>
           <target state="translated">Poruka o grešci</target>
@@ -3508,8 +3664,8 @@
           <note from="Xliff Generator" annotates="general" priority="3">Table Sub. Package Line Template - NamedType DiscountCanBeInvoicedViaContractErr</note>
         </trans-unit>
         <trans-unit id="Table 2542603442 - NamedType 940112322" size-unit="char" translate="yes" xml:space="preserve">
-          <source>Subscription Package Lines, which are discounts can only be assigned to Subscription Items.</source>
-          <target state="translated">Redovi pretplatničkog paketa koji predstavljaju popuste mogu se dodeliti samo artiklima pretplate.</target>
+          <source>Subscription Package Lines, which are discounts, can only be assigned to Subscription Items.</source>
+          <target state="needs-l10n">Pretplatničke paketne linije, koje su popusti, mogu se dodeliti samo pretplatničkim stavkama.</target>
           <note from="Developer" annotates="general" priority="2"/>
           <note from="Xliff Generator" annotates="general" priority="3">Table Sub. Package Line Template - NamedType DiscountCannotBeAssignedErr</note>
         </trans-unit>
@@ -3520,8 +3676,8 @@
           <note from="Xliff Generator" annotates="general" priority="3">Table Sub. Package Line Template - NamedType InvoicingItemNoErr</note>
         </trans-unit>
         <trans-unit id="Table 2542603442 - NamedType 2214839204" size-unit="char" translate="yes" xml:space="preserve">
-          <source>Recurring discounts cannot be granted be granted in conjunction with Usage Based Billing.</source>
-          <target state="translated">Periodični popusti se ne mogu odobriti u kombinaciji sa obračunom na osnovu korišćenja.</target>
+          <source>Recurring discounts cannot be granted in conjunction with Usage Based Billing</source>
+          <target state="needs-l10n">Ponavljajući popusti ne mogu se odobriti u kombinaciji sa naplatom zasnovanom na upotrebi</target>
           <note from="Developer" annotates="general" priority="2"/>
           <note from="Xliff Generator" annotates="general" priority="3">Table Sub. Package Line Template - NamedType RecurringDiscountCannotBeGrantedErr</note>
         </trans-unit>
@@ -3748,8 +3904,8 @@
           <note from="Xliff Generator" annotates="general" priority="3">Table Subscription Contract Setup - Method VerifyContractTextsSetup - NamedType BillingPeriodSetupMissingErr</note>
         </trans-unit>
         <trans-unit id="Table 2512020738 - Field 1741797343 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
-          <source>Autom. Insert Cust. Contr. Dimension Value</source>
-          <target state="translated">Automatsko unošenje vrednosti dimenzije ugovora kupca</target>
+          <source>Autom. Insert Cust. Sub. Contr. Dimension Value</source>
+          <target state="needs-l10n">Autom. Ubaci Cust. Sub. Contr. Dimenzija Vrednost</target>
           <note from="Developer" annotates="general" priority="2"/>
           <note from="Xliff Generator" annotates="general" priority="3">Table Subscription Contract Setup - Field Aut. Insert C. Contr. DimValue - Property Caption</note>
         </trans-unit>
@@ -3882,19 +4038,19 @@
         <trans-unit id="Table 2854030003 - NamedType 28698063" size-unit="char" translate="yes" xml:space="preserve">
           <source>You cannot delete %1 %2 because one or more contract are associated with this %1.</source>
           <target state="translated">Ne možete da obrišete %1 %2 jer je sa ovim %1 povezan jedan ili više ugovora.</target>
-          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Developer" annotates="general" priority="2">%1 = Table, %2 = Table Caption</note>
           <note from="Xliff Generator" annotates="general" priority="3">Table Subscription Contract Type - NamedType CannotDeleteErr</note>
         </trans-unit>
         <trans-unit id="Table 2854030003 - NamedType 3154321202" size-unit="char" translate="yes" xml:space="preserve">
           <source>The changed default for the creation of contract deferrals only applies to new contracts. For existing contracts the setting must be changed manually, if required. Contract Type = %1 %2</source>
           <target state="translated">Izmenjena podrazumevana vrednost za kreiranje razgraničenja ugovora primenjuje se samo na nove ugovore. Za postojeće ugovore podešavanje, po potrebi, treba izmeniti ručno. Tip ugovora = %1 %2</target>
-          <note from="Developer" annotates="general" priority="2">Code = %1, Description = %2</note>
+          <note from="Developer" annotates="general" priority="2">%1= Code, %2 = Description</note>
           <note from="Xliff Generator" annotates="general" priority="3">Table Subscription Contract Type - NamedType CurrentContractsNotAffectedMsg</note>
         </trans-unit>
         <trans-unit id="Table 2854030003 - NamedType 2653761124" size-unit="char" translate="yes" xml:space="preserve">
           <source>The Customer Subscription Contracts with contract type %1 may be set so that all contract elements are billed on the same key date. If you deselect this checkbox, Subscription Lines that are added will not be automatically harmonized with regard to billing and the information on harmonized billing will be removed from the contracts. Do you want to continue?</source>
           <target state="translated">Ugovori o pretplati sa kupcima tipa %1 mogu da budu podešeni tako da se svi elementi ugovora fakturišu na isti ključni datum. Ako poništite izbor ovog polja za potvrdu, redovi pretplate koji se dodaju neće biti automatski usklađeni u pogledu fakturisanja, a informacije o usklađenom fakturisanju biće uklonjene iz ugovora. Želite li da nastavite?</target>
-          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Developer" annotates="general" priority="2">Code = %1</note>
           <note from="Xliff Generator" annotates="general" priority="3">Table Subscription Contract Type - NamedType CustomerContractWithContractTypeExistsQst</note>
         </trans-unit>
         <trans-unit id="Table 2854030003 - Field 3004954119 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
@@ -4074,7 +4230,7 @@
         <trans-unit id="Table 615625496 - NamedType 3280915453" size-unit="char" translate="yes" xml:space="preserve">
           <source>Serial No.: %1</source>
           <target state="translated">Serijski broj: %1</target>
-          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Developer" annotates="general" priority="2">%1 = Serial No.</note>
           <note from="Xliff Generator" annotates="general" priority="3">Table Subscription Header - NamedType SerialNoLbl</note>
         </trans-unit>
         <trans-unit id="Table 615625496 - NamedType 611461059" size-unit="char" translate="yes" xml:space="preserve">
@@ -4110,7 +4266,7 @@
         <trans-unit id="Table 615625496 - Method 949626500 - NamedType 300724216" size-unit="char" translate="yes" xml:space="preserve">
           <source>The %1 has been changed.\\Do you want to update the price and description?</source>
           <target state="translated">%1 je promenjeno.\\Želite li da ažurirate cenu i opis?</target>
-          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Developer" annotates="general" priority="2">%1= Changed Field Name.</note>
           <note from="Xliff Generator" annotates="general" priority="3">Table Subscription Header - Method GetRecalculateLinesDialog - NamedType RecalculateLinesFromVariantCodeQst</note>
         </trans-unit>
         <trans-unit id="Table 615625496 - Field 3761260158 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
@@ -4458,13 +4614,13 @@
         <trans-unit id="Table 3078347359 - NamedType 1675467678" size-unit="char" translate="yes" xml:space="preserve">
           <source>%1 cannot be greater than %2.</source>
           <target state="translated">%1 ne može biti veće od %2.</target>
-          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Developer" annotates="general" priority="2">%1 = Amount; %2 = Max Service Amount</note>
           <note from="Xliff Generator" annotates="general" priority="3">Table Subscription Line - NamedType CannotBeGreaterThanErr</note>
         </trans-unit>
         <trans-unit id="Table 3078347359 - NamedType 1578265203" size-unit="char" translate="yes" xml:space="preserve">
           <source>%1 cannot be less than %2.</source>
           <target state="translated">%1 ne može biti manje od %2.</target>
-          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Developer" annotates="general" priority="2">%1 = Amount; %2 = 0</note>
           <note from="Xliff Generator" annotates="general" priority="3">Table Subscription Line - NamedType CannotBeLessThanErr</note>
         </trans-unit>
         <trans-unit id="Table 3078347359 - NamedType 1765016628" size-unit="char" translate="yes" xml:space="preserve">
@@ -4476,7 +4632,7 @@
         <trans-unit id="Table 3078347359 - NamedType 723183544" size-unit="char" translate="yes" xml:space="preserve">
           <source>%1 cannot be before %2.</source>
           <target state="translated">%1 ne može biti pre %2.</target>
-          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Developer" annotates="general" priority="2">%1 = Next Billing Date; %2 = Subscription Line Start Date</note>
           <note from="Xliff Generator" annotates="general" priority="3">Table Subscription Line - NamedType DateBeforeDateErr</note>
         </trans-unit>
         <trans-unit id="Table 3078347359 - NamedType 2713723462" size-unit="char" translate="yes" xml:space="preserve">
@@ -4490,6 +4646,24 @@
           <target state="translated">Izabrane redove pretplate potrebno bi bilo preračunati u različite valute. Molimo izaberite samo redove pretplate sa istom valutom.</target>
           <note from="Developer" annotates="general" priority="2"/>
           <note from="Xliff Generator" annotates="general" priority="3">Table Subscription Line - NamedType DifferentCurrenciesInSerCommitmentErr</note>
+        </trans-unit>
+        <trans-unit id="Table 3078347359 - NamedType 2049643846" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Recurring discounts can only be granted for Invoicing via Contract.</source>
+          <target state="needs-l10n">Ponavljajući popusti mogu se odobriti samo za fakturisanje putem ugovora.</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Subscription Line - NamedType DiscountCanBeInvoicedViaContractErr</note>
+        </trans-unit>
+        <trans-unit id="Table 3078347359 - NamedType 940112322" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Subscription Package Lines, which are discounts, can only be assigned to Subscription Items.</source>
+          <target state="needs-l10n">Pretplatničke paketne linije, koje su popusti, mogu se dodeliti samo pretplatničkim stavkama.</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Subscription Line - NamedType DiscountCannotBeAssignedErr</note>
+        </trans-unit>
+        <trans-unit id="Table 3078347359 - NamedType 1582104615" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Subscription Lines for a sales document are not invoiced. No value may be entered in the Invoicing Item No..</source>
+          <target state="needs-l10n">Pretplatničke linije za prodajni dokument se ne fakturišu. U stavku fakturisanja broj ne može se unositi nikakva vrednost.</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Subscription Line - NamedType InvoicingItemNoErr</note>
         </trans-unit>
         <trans-unit id="Table 3078347359 - NamedType 1454716739" size-unit="char" translate="yes" xml:space="preserve">
           <source>Please use the fields "Calculation Base Amount" and "Calculation Base %" in order to update the unit cost.</source>
@@ -4508,6 +4682,18 @@
           <target state="translated">Red pretplate nije moguće obrisati jer je povezan sa redom ugovora koji još nije označen kao "Zatvoreno”.</target>
           <note from="Developer" annotates="general" priority="2"/>
           <note from="Xliff Generator" annotates="general" priority="3">Table Subscription Line - NamedType OpenContractLinesExistErr</note>
+        </trans-unit>
+        <trans-unit id="Table 3078347359 - NamedType 2214839204" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Recurring discounts cannot be granted in conjunction with Usage Based Billing</source>
+          <target state="needs-l10n">Ponavljajući popusti ne mogu se odobriti u kombinaciji sa naplatom zasnovanom na upotrebi</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Subscription Line - NamedType RecurringDiscountCannotBeGrantedErr</note>
+        </trans-unit>
+        <trans-unit id="Table 3078347359 - NamedType 608712038" size-unit="char" translate="yes" xml:space="preserve">
+          <source>The %1 must be the same as the %2 to delete the %3.</source>
+          <target state="needs-l10n">%1 mora biti isti kao i %2 da biste izbrisali% 3.</target>
+          <note from="Developer" annotates="general" priority="2">%1 = Service Start Date; %2 = Next Billing Date; %3 = Service Commitment</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Subscription Line - NamedType SubscriptionLineStartDateDifferentThanNextBillingDateErr</note>
         </trans-unit>
         <trans-unit id="Table 3078347359 - NamedType 1679449610" size-unit="char" translate="yes" xml:space="preserve">
           <source>The price could not be updated because the exchange rate is 0.</source>
@@ -5266,8 +5452,8 @@
           <note from="Xliff Generator" annotates="general" priority="3">Table Subscription Package Line - NamedType DiscountCanBeInvoicedViaContractErr</note>
         </trans-unit>
         <trans-unit id="Table 767188337 - NamedType 940112322" size-unit="char" translate="yes" xml:space="preserve">
-          <source>Subscription Package Lines, which are discounts can only be assigned to Subscription Items.</source>
-          <target state="translated">Redovi pretplatničkog paketa koji predstavljaju popuste mogu se dodeliti samo artiklima pretplate.</target>
+          <source>Subscription Package Lines, which are discounts, can only be assigned to Subscription Items.</source>
+          <target state="needs-l10n">Pretplatničke paketne linije, koje su popusti, mogu se dodeliti samo pretplatničkim stavkama.</target>
           <note from="Developer" annotates="general" priority="2"/>
           <note from="Xliff Generator" annotates="general" priority="3">Table Subscription Package Line - NamedType DiscountCannotBeAssignedErr</note>
         </trans-unit>
@@ -5278,8 +5464,8 @@
           <note from="Xliff Generator" annotates="general" priority="3">Table Subscription Package Line - NamedType InvoicingItemNoErr</note>
         </trans-unit>
         <trans-unit id="Table 767188337 - NamedType 2214839204" size-unit="char" translate="yes" xml:space="preserve">
-          <source>Recurring discounts cannot be granted be granted in conjunction with Usage Based Billing.</source>
-          <target state="translated">Periodični popusti se ne mogu odobriti u kombinaciji sa obračunom na osnovu korišćenja.</target>
+          <source>Recurring discounts cannot be granted in conjunction with Usage Based Billing</source>
+          <target state="needs-l10n">Ponavljajući popusti ne mogu se odobriti u kombinaciji sa naplatom zasnovanom na upotrebi</target>
           <note from="Developer" annotates="general" priority="2"/>
           <note from="Xliff Generator" annotates="general" priority="3">Table Subscription Package Line - NamedType RecurringDiscountCannotBeGrantedErr</note>
         </trans-unit>
@@ -6030,7 +6216,7 @@
         <trans-unit id="Table 1183576035 - NamedType 1773246555" size-unit="char" translate="yes" xml:space="preserve">
           <source>Do you want to update %1 in %2?</source>
           <target state="translated">Da li želite da ažurirate %1 u %2?</target>
-          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Developer" annotates="general" priority="2">%1 = Customer No., %2 = Table Caption</note>
           <note from="Xliff Generator" annotates="general" priority="3">Table Usage Data Supp. Customer - NamedType UpdateUsageDataSubscriptionQst</note>
         </trans-unit>
         <trans-unit id="Table 1183576035 - Field 93878600 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
@@ -6375,6 +6561,12 @@
           <note from="Developer" annotates="general" priority="2"/>
           <note from="Xliff Generator" annotates="general" priority="3">Table Vend. Sub. Contract Deferral - Field Amount - Property Caption</note>
         </trans-unit>
+        <trans-unit id="Table 1403672500 - Field 4198939294 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Currency Code</source>
+          <target state="translated">Šifra valute</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Vend. Sub. Contract Deferral - Field Currency Code - Property Caption</note>
+        </trans-unit>
         <trans-unit id="Table 1403672500 - Field 487876058 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
           <source>Deferral Base Amount</source>
           <target state="translated">Iznos osnovice razgraničenja</target>
@@ -6591,6 +6783,12 @@
           <note from="Developer" annotates="general" priority="2"/>
           <note from="Xliff Generator" annotates="general" priority="3">Table Vend. Sub. Contract Line - NamedType OneContractLineSelectedErr</note>
         </trans-unit>
+        <trans-unit id="Table 1797344435 - NamedType 1294958189" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Contract lines cannot be deleted as long as open Contract Deferrals exists. Please release the Contract Deferrals before deleting the Contract line.</source>
+          <target state="needs-l10n">Linije ugovora ne mogu se izbrisati sve dok postoje otvorena odlaganja ugovora. Molimo vas da otpustite odlaganje ugovora pre brisanja linije ugovora.</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Vend. Sub. Contract Line - NamedType UnreleasedVendSubContractDeferralExistsErr</note>
+        </trans-unit>
         <trans-unit id="Table 1797344435 - Field 1778072510 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
           <source>Closed</source>
           <target state="translated">Zatvoreno</target>
@@ -6684,19 +6882,19 @@
         <trans-unit id="Table 101571207 - NamedType 2776500120" size-unit="char" translate="yes" xml:space="preserve">
           <source>Contact %1 %2 is not related to a vendor.</source>
           <target state="translated">Kontakt %1 %2 nije povezan sa dobavljačem.</target>
-          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Developer" annotates="general" priority="2">%1=Contact No., %2=Contact Name</note>
           <note from="Xliff Generator" annotates="general" priority="3">Table Vendor Subscription Contract - NamedType ContactIsNotRelatedToAnyVendorErr</note>
         </trans-unit>
         <trans-unit id="Table 101571207 - NamedType 71960348" size-unit="char" translate="yes" xml:space="preserve">
           <source>Contact %1 %2 is not related to vendor %3.</source>
           <target state="translated">Kontakt %1 %2 nije povezan sa dobavljačem %3.</target>
-          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Developer" annotates="general" priority="2">%1=Contact No., %2=Contact Name, %3=Vendor No.</note>
           <note from="Xliff Generator" annotates="general" priority="3">Table Vendor Subscription Contract - NamedType ContactNotRelatedToVendorErr</note>
         </trans-unit>
         <trans-unit id="Table 101571207 - NamedType 3044981445" size-unit="char" translate="yes" xml:space="preserve">
           <source>Contact %1 %2 is related to a different company than vendor %3.</source>
           <target state="translated">Kontakt %1 %2 se odnosi na preduzeće koje nije dobavljač br. %3.</target>
-          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Developer" annotates="general" priority="2">%1=Contact No., %2=Contact Name, %3=Vendor No.</note>
           <note from="Xliff Generator" annotates="general" priority="3">Table Vendor Subscription Contract - NamedType ContactRelatedToDifferentCompanyErr</note>
         </trans-unit>
         <trans-unit id="Table 101571207 - NamedType 3826440826" size-unit="char" translate="yes" xml:space="preserve">
@@ -6750,13 +6948,13 @@
         <trans-unit id="Table 101571207 - NamedType 430254759" size-unit="char" translate="yes" xml:space="preserve">
           <source>You cannot rename a %1.</source>
           <target state="translated">Ne možete da preimenujete %1.</target>
-          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Developer" annotates="general" priority="2">%1 = Table Caption</note>
           <note from="Xliff Generator" annotates="general" priority="3">Table Vendor Subscription Contract - NamedType RenameErr</note>
         </trans-unit>
         <trans-unit id="Table 101571207 - NamedType 1605192676" size-unit="char" translate="yes" xml:space="preserve">
           <source>The dimensions in %1 deferrals have been updated.</source>
           <target state="translated">Dimenzije u razgraničenjima %1 su ažurirane.</target>
-          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Developer" annotates="general" priority="2">%1 = Count of updated deferrals</note>
           <note from="Xliff Generator" annotates="general" priority="3">Table Vendor Subscription Contract - NamedType UpdatedDeferralsMsg</note>
         </trans-unit>
         <trans-unit id="Table 101571207 - NamedType 3158793340" size-unit="char" translate="yes" xml:space="preserve">
@@ -7020,13 +7218,13 @@
         <trans-unit id="Codeunit 3296298855 - NamedType 2865856672" size-unit="char" translate="yes" xml:space="preserve">
           <source>The Subscription Line has already been invoiced until %1. In order to cancel the invoice, please cancel the newer invoices first.</source>
           <target state="translated">Red pretplate je već fakturisan do %1. Da biste stornirali fakturu, najpre stornirajte novije fakture.</target>
-          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Developer" annotates="general" priority="2">%1=Next Billing Date</note>
           <note from="Xliff Generator" annotates="general" priority="3">Codeunit Billing Correction - NamedType NewerInvoiceExistErr</note>
         </trans-unit>
         <trans-unit id="Codeunit 3296298855 - NamedType 4000427676" size-unit="char" translate="yes" xml:space="preserve">
           <source>The %1 %2 already exists for the Subscription Line. Please post or delete this %1 first.</source>
           <target state="translated">%1 %2 već postoji za red pretplate. Najpre proknjižite ili obrišite taj %1.</target>
-          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Developer" annotates="general" priority="2">%1=Document Type, %2=Document No.</note>
           <note from="Xliff Generator" annotates="general" priority="3">Codeunit Billing Correction - NamedType RelatedDocumentLineExistErr</note>
         </trans-unit>
         <trans-unit id="Codeunit 3216999521 - NamedType 3819435562" size-unit="char" translate="yes" xml:space="preserve">
@@ -7062,7 +7260,7 @@
         <trans-unit id="Codeunit 3216999521 - NamedType 770603074" size-unit="char" translate="yes" xml:space="preserve">
           <source>A change of Billing to field from %1 to %2 for %3 and %4 is not allowed because the Subscription Line has already been calculated up to %5.</source>
           <target state="translated">Promena fakturisanja u polje sa %1 na %2 za %3 i %4 nije dozvoljena jer je red za pretplatu već izračunat do %5.</target>
-          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Developer" annotates="general" priority="2">%1: Old Billing To Date, %2: New Billing To Date, %3: Subscription Contract No., %4: Subscription Contract Line No., %5: Last Billing To Date</note>
           <note from="Xliff Generator" annotates="general" priority="3">Codeunit Billing Proposal - NamedType BillingToChangeNotAllowedErr</note>
         </trans-unit>
         <trans-unit id="Codeunit 3216999521 - NamedType 3940501287" size-unit="char" translate="yes" xml:space="preserve">
@@ -7122,7 +7320,7 @@
         <trans-unit id="Codeunit 239228301 - NamedType 1558925349" size-unit="char" translate="yes" xml:space="preserve">
           <source>Contract No. %1</source>
           <target state="translated">Br. ugovora %1</target>
-          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Developer" annotates="general" priority="2">%1=Contract No.</note>
           <note from="Xliff Generator" annotates="general" priority="3">Codeunit Create Billing Documents - NamedType ContractNoTxt</note>
         </trans-unit>
         <trans-unit id="Codeunit 239228301 - NamedType 3942070152" size-unit="char" translate="yes" xml:space="preserve">
@@ -7140,13 +7338,13 @@
         <trans-unit id="Codeunit 239228301 - NamedType 302907289" size-unit="char" translate="yes" xml:space="preserve">
           <source>Creation of documents completed.\\%1 document(s) for %2 contract(s) were created and posted.</source>
           <target state="translated">Kreiranje dokumenata je završeno.\\Kreirano i proknjiženo je %1 dokumenta za %2 ugovora.</target>
-          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Developer" annotates="general" priority="2">%1=Number of documents, %2=Number of contracts</note>
           <note from="Xliff Generator" annotates="general" priority="3">Codeunit Create Billing Documents - NamedType DocumentsCreatedAndPostedMsg</note>
         </trans-unit>
         <trans-unit id="Codeunit 239228301 - NamedType 3630995263" size-unit="char" translate="yes" xml:space="preserve">
           <source>Creation of documents completed.\\%1 document(s) for %2 contract(s) were created.</source>
           <target state="translated">Kreiranje dokumenata je završeno.\\Kreirano je %1 dokumenta za %2 ugovora.</target>
-          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Developer" annotates="general" priority="2">%1=Number of documents, %2=Number of contracts</note>
           <note from="Xliff Generator" annotates="general" priority="3">Codeunit Create Billing Documents - NamedType DocumentsCreatedMsg</note>
         </trans-unit>
         <trans-unit id="Codeunit 239228301 - NamedType 961969790" size-unit="char" translate="yes" xml:space="preserve">
@@ -7170,7 +7368,7 @@
         <trans-unit id="Codeunit 239228301 - NamedType 2379887463" size-unit="char" translate="yes" xml:space="preserve">
           <source>Creating documents...\Partner No. #1#################################\Contract No. #2#################################</source>
           <target state="translated">Kreiranje dokumenata...\Br. partnera: #1#################################\Br. ugovora: #2#################################</target>
-          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Developer" annotates="general" priority="2">%1=Partner No., %2=Contract No.</note>
           <note from="Xliff Generator" annotates="general" priority="3">Codeunit Create Billing Documents - NamedType ProgressTxt</note>
         </trans-unit>
         <trans-unit id="Codeunit 239228301 - NamedType 1794465335" size-unit="char" translate="yes" xml:space="preserve">
@@ -7182,13 +7380,13 @@
         <trans-unit id="Codeunit 239228301 - NamedType 1007700802" size-unit="char" translate="yes" xml:space="preserve">
           <source>Subscription period: %1 to %2</source>
           <target state="translated">Period pretplate: %1 do %2</target>
-          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Developer" annotates="general" priority="2">%1=Recurring Billing from, %2=Recurring Billing to</note>
           <note from="Xliff Generator" annotates="general" priority="3">Codeunit Create Billing Documents - NamedType ServicePeriodDescriptionTxt</note>
         </trans-unit>
         <trans-unit id="Codeunit 239228301 - NamedType 3198432484" size-unit="char" translate="yes" xml:space="preserve">
           <source>The total amount of an invoice cannot be less than 0. Please check the contract %1.</source>
           <target state="translated">Ukupan iznos fakture ne može biti manji od 0. Proverite ugovor %1.</target>
-          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Developer" annotates="general" priority="2">%1=Contract No.</note>
           <note from="Xliff Generator" annotates="general" priority="3">Codeunit Create Billing Documents - NamedType TotalInvoiceAmountIsLessThanZeroErr</note>
         </trans-unit>
         <trans-unit id="Codeunit 239228301 - NamedType 2147192615" size-unit="char" translate="yes" xml:space="preserve">
@@ -7218,14 +7416,20 @@
         <trans-unit id="Codeunit 239228301 - Method 4110781728 - NamedType 1079304508" size-unit="char" translate="yes" xml:space="preserve">
           <source>Reference No.: %1</source>
           <target state="translated">Br. reference: %1</target>
-          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Developer" annotates="general" priority="2">%1 = Customer Reference</note>
           <note from="Xliff Generator" annotates="general" priority="3">Codeunit Create Billing Documents - Method GetAdditionalLineText - NamedType ReferenceNoLbl</note>
         </trans-unit>
         <trans-unit id="Codeunit 239228301 - Method 4110781728 - NamedType 2275732742" size-unit="char" translate="yes" xml:space="preserve">
           <source>Error getting a Line Description: Option %1 (Field %2 in %3) is not handled.</source>
           <target state="translated">Greška pri dobijanju opisa reda: opcija %1 (polje %2 u %3) nije obrađena.</target>
-          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Developer" annotates="general" priority="2">%1 = Contract Invoice Text Type, %2 = Field Caption, %3 = Table Caption</note>
           <note from="Xliff Generator" annotates="general" priority="3">Codeunit Create Billing Documents - Method GetAdditionalLineText - NamedType SetupOptionNotHandledErr</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 239228301 - Method 113919203 - NamedType 1058928274" size-unit="char" translate="yes" xml:space="preserve">
+          <source>You have set filters on the Recurring Billing page. The filters were ignored to maintain data consistency.</source>
+          <target state="needs-l10n">Postavili ste filtere na stranici Ponavljajuća naplata. Filteri su ignorisani kako bi se održala konzistentnost podataka.</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit Create Billing Documents - Method ShowFiltersIgnoredNotification - NamedType FiltersIgnoredMsg</note>
         </trans-unit>
         <trans-unit id="Codeunit 1866007702 - NamedType 3651953637" size-unit="char" translate="yes" xml:space="preserve">
           <source>The Contract No. must not be empty. No contract line was created.</source>
@@ -7242,7 +7446,7 @@
         <trans-unit id="Codeunit 963234558 - Method 968556520 - NamedType 3909705948" size-unit="char" translate="yes" xml:space="preserve">
           <source>A Sales Quote already exists for %1 %2, %3 %4.</source>
           <target state="translated">Prodajna ponuda već postoji za %1 %2, %3 %4.</target>
-          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Developer" annotates="general" priority="2">%1=Table Caption, %2=Subscription Header No., %3=Field Caption, %4=Entry No.</note>
           <note from="Xliff Generator" annotates="general" priority="3">Codeunit Create Sub. Contract Renewal - Method CheckContractRenewalLine - NamedType ContractRenewalLineIsInSalesQuoteErr</note>
         </trans-unit>
         <trans-unit id="Codeunit 963234558 - Method 198288977 - NamedType 3622789728" size-unit="char" translate="yes" xml:space="preserve">
@@ -7254,13 +7458,13 @@
         <trans-unit id="Codeunit 963234558 - Method 198288977 - NamedType 1558925349" size-unit="char" translate="yes" xml:space="preserve">
           <source>Contract No. %1</source>
           <target state="translated">Br. ugovora %1</target>
-          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Developer" annotates="general" priority="2">%1=Contract No.</note>
           <note from="Xliff Generator" annotates="general" priority="3">Codeunit Create Sub. Contract Renewal - Method CreateDescriptionLines - NamedType ContractNoTxt</note>
         </trans-unit>
         <trans-unit id="Codeunit 963234558 - Method 3017795259 - NamedType 10744700" size-unit="char" translate="yes" xml:space="preserve">
           <source>%1 to %2</source>
           <target state="translated">%1 do %2</target>
-          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Developer" annotates="general" priority="2">%1=Start Date, %2=End Date</note>
           <note from="Xliff Generator" annotates="general" priority="3">Codeunit Create Sub. Contract Renewal - Method InsertTermInfoLine - NamedType TermDurationTxt</note>
         </trans-unit>
         <trans-unit id="Codeunit 963234558 - Method 2415148647 - NamedType 3083451624" size-unit="char" translate="yes" xml:space="preserve">
@@ -7272,13 +7476,13 @@
         <trans-unit id="Codeunit 963234558 - Method 2415148647 - NamedType 3053587524" size-unit="char" translate="yes" xml:space="preserve">
           <source>%1 %2 has been created.\\Do you want to open the document?</source>
           <target state="translated">%1 %2 je kreiran.\\Da li želite da otvorite dokument?</target>
-          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Developer" annotates="general" priority="2">%1=Document Type, %2=No.</note>
           <note from="Xliff Generator" annotates="general" priority="3">Codeunit Create Sub. Contract Renewal - Method OpenSalesQuotes - NamedType OpenSingleQst</note>
         </trans-unit>
         <trans-unit id="Codeunit 963234558 - Method 2415148647 - NamedType 2031891782" size-unit="char" translate="yes" xml:space="preserve">
           <source>%1 Sales Quotes have been created. Do you want to open a list of the documents?</source>
           <target state="translated">Kreirano je %1 prodajnih ponuda. Želite li da otvorite listu dokumenata?</target>
-          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Developer" annotates="general" priority="2">%1=Count of Sales Quotes</note>
           <note from="Xliff Generator" annotates="general" priority="3">Codeunit Create Sub. Contract Renewal - Method OpenSalesQuotes - NamedType OpenMultipleQst</note>
         </trans-unit>
         <trans-unit id="Codeunit 2178362548 - NamedType 1061143494" size-unit="char" translate="yes" xml:space="preserve">
@@ -7299,6 +7503,12 @@
           <note from="Developer" annotates="general" priority="2"/>
           <note from="Xliff Generator" annotates="general" priority="3">Codeunit Create Subscription Line - NamedType ServiceObjectDoesNotExistErr</note>
         </trans-unit>
+        <trans-unit id="Codeunit 906637243 - NamedType 110788040" size-unit="char" translate="yes" xml:space="preserve">
+          <source>%1 value must be greater than %2.</source>
+          <target state="needs-l10n">% 1 vrednost mora biti veća od% 2.</target>
+          <note from="Developer" annotates="general" priority="2">%1 = FieldCaption, %2 = minimum value</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit Create Subscription Line - NamedType ValueMustBeGreaterErr</note>
+        </trans-unit>
         <trans-unit id="Codeunit 906637243 - NamedType 375806254" size-unit="char" translate="yes" xml:space="preserve">
           <source>%1 value should be between %2 and %3.</source>
           <target state="translated">Vrednost %1 treba da bude između %2 i %3.</target>
@@ -7308,7 +7518,7 @@
         <trans-unit id="Codeunit 3528376742 - NamedType 1760702173" size-unit="char" translate="yes" xml:space="preserve">
           <source>Usage Data Billing for Import %1 already exist. Do you want to try to create new entries for the failed Usage Data Generic Import only?</source>
           <target state="translated">Obračun na osnovu korišćenja za uvoz %1 već postoji. Želite li da pokušate da kreirate nove stavke samo za neuspešan generički uvoz podataka o korišćenju?</target>
-          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Developer" annotates="general" priority="2">%1=Usage Data Import Entry No.</note>
           <note from="Xliff Generator" annotates="general" priority="3">Codeunit Create Usage Data Billing - NamedType RetryFailedUsageDataImportTxt</note>
         </trans-unit>
         <trans-unit id="Codeunit 2264750875 - NamedType 4033532371" size-unit="char" translate="yes" xml:space="preserve">
@@ -7332,13 +7542,13 @@
         <trans-unit id="Codeunit 1535292707 - NamedType 519972416" size-unit="char" translate="yes" xml:space="preserve">
           <source>The %1 must be filled out. Please enter a date.</source>
           <target state="translated">Polje %1 mora biti popunjeno. Unesite datum.</target>
-          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Developer" annotates="general" priority="2">%1=Field Caption</note>
           <note from="Xliff Generator" annotates="general" priority="3">Codeunit Date Formula Management - NamedType DateEmptyErr</note>
         </trans-unit>
         <trans-unit id="Codeunit 1535292707 - NamedType 577433510" size-unit="char" translate="yes" xml:space="preserve">
           <source>The %1 must be filled out. Please enter a date formula.</source>
           <target state="translated">Polje %1 mora biti popunjeno. Unesite formulu datuma.</target>
-          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Developer" annotates="general" priority="2">%1=Field Caption</note>
           <note from="Xliff Generator" annotates="general" priority="3">Codeunit Date Formula Management - NamedType DateFormulaEmptyErr</note>
         </trans-unit>
         <trans-unit id="Codeunit 1535292707 - NamedType 3738642344" size-unit="char" translate="yes" xml:space="preserve">
@@ -7356,7 +7566,7 @@
         <trans-unit id="Codeunit 1535292707 - NamedType 407376554" size-unit="char" translate="yes" xml:space="preserve">
           <source>The ratio of '%1' and '%2' or vice versa must give a natural number.</source>
           <target state="translated">Odnos "%1” i "%2” (ili obrnuto) mora dati prirodan broj.</target>
-          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Developer" annotates="general" priority="2">%1=Field Caption, %2=Field Caption</note>
           <note from="Xliff Generator" annotates="general" priority="3">Codeunit Date Formula Management - NamedType NaturalNumberRatioErr</note>
         </trans-unit>
         <trans-unit id="Codeunit 526183614 - NamedType 3625149050" size-unit="char" translate="yes" xml:space="preserve">
@@ -7500,7 +7710,7 @@
         <trans-unit id="Codeunit 1535460191 - NamedType 96554027" size-unit="char" translate="yes" xml:space="preserve">
           <source>No contract (for Subscription %1) found for processing step %2.</source>
           <target state="translated">Nije pronađen ugovor (za pretplatu %1) za korak obrade %2.</target>
-          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Developer" annotates="general" priority="2">%1=Subscription Header No., %2=Processing Step</note>
           <note from="Xliff Generator" annotates="general" priority="3">Codeunit Process Usage Data Billing - NamedType NoContractFoundInUsageDataBillingErr</note>
         </trans-unit>
         <trans-unit id="Codeunit 1535460191 - NamedType 2700801235" size-unit="char" translate="yes" xml:space="preserve">
@@ -7539,12 +7749,6 @@
           <note from="Developer" annotates="general" priority="2"/>
           <note from="Xliff Generator" annotates="general" priority="3">Codeunit Sales Report Printout Mgmt. - Method FillServiceCommitmentsGroupPerPeriod - NamedType TaxAmountLbl</note>
         </trans-unit>
-        <trans-unit id="Codeunit 656759664 - Method 3978340907 - NamedType 1048788515" size-unit="char" translate="yes" xml:space="preserve">
-          <source>Table %1 %2 has not been defined for processing.</source>
-          <target state="translated">Tabela %1 %2 nije definisana za obradu.</target>
-          <note from="Developer" annotates="general" priority="2"/>
-          <note from="Xliff Generator" annotates="general" priority="3">Codeunit Sales Report Printout Mgmt. - Method IsServiceCommitmentItem - NamedType SourceRecordNotDefinedForProcessingErr</note>
-        </trans-unit>
         <trans-unit id="Codeunit 2980985892 - NamedType 459053536" size-unit="char" translate="yes" xml:space="preserve">
           <source>For negative quantity the Subscription is not created.</source>
           <target state="translated">Ako je količina negativna, pretplata se ne kreira.</target>
@@ -7560,7 +7764,7 @@
         <trans-unit id="Codeunit 2980985892 - Method 4240192538 - NamedType 100372492" size-unit="char" translate="yes" xml:space="preserve">
           <source>The %1 of %2 %3 has not been transferred to the Sales Subscription Line(s). The %1 is only transferred to Sales Subscription Line, if %4 is set to %5.</source>
           <target state="translated">%1 za %2 %3 nije prenet u red(ove) prodaje pretplate. %1 se prenosi u red prodaje pretplate samo ako je %4 postavljeno na %5.</target>
-          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Developer" annotates="general" priority="2">%1= Discount %, %2= Sales Line Type, %3= Sales Line No., %4= Calculation Base Type, %5= Document Price And Discount</note>
           <note from="Xliff Generator" annotates="general" priority="3">Codeunit Sales Subscription Line Mgmt. - Method NotifyIfDiscountIsNotTransferredFromSalesLine - NamedType DiscountNotTransferredTxt</note>
         </trans-unit>
         <trans-unit id="Codeunit 2980985892 - Method 4240192538 - NamedType 3826440826" size-unit="char" translate="yes" xml:space="preserve">
@@ -7614,7 +7818,7 @@
         <trans-unit id="Codeunit 1757145474 - Method 663170196 - NamedType 1214884531" size-unit="char" translate="yes" xml:space="preserve">
           <source>Existing Contract Renewal Lines for Contract %1 will be dropped.\Do you want to continue?</source>
           <target state="translated">Postojeći redovi obnove ugovora za ugovor %1 biće obrisani.\Da li želite da nastavite?</target>
-          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Developer" annotates="general" priority="2">%1 = Contract No.</note>
           <note from="Xliff Generator" annotates="general" priority="3">Codeunit Sub. Contract Renewal Mgt. - Method DropContractRenewalLines - NamedType DropExistingLinesQst</note>
         </trans-unit>
         <trans-unit id="Codeunit 1757145474 - Method 1977811028 - NamedType 204779529" maxwidth="128" size-unit="char" translate="yes" xml:space="preserve">
@@ -7668,7 +7872,7 @@
         <trans-unit id="Codeunit 1545608359 - NamedType 2845557940" size-unit="char" translate="yes" xml:space="preserve">
           <source>The value "%1" can only be set if either "%2" or "%3" is selected in the field "%4".</source>
           <target state="translated">Vrednost "%1” može da se postavi samo ako je u polju "%4” izabrano "%2” ili "%3”.</target>
-          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Developer" annotates="general" priority="2">%1=Item Type, %2=Sales without Service Commitment, %3=Sales with Service Commitment, %4=Subscription Option</note>
           <note from="Xliff Generator" annotates="general" priority="3">Codeunit Sub. Contracts Item Management - NamedType NonInventoryTypeErr</note>
         </trans-unit>
         <trans-unit id="Codeunit 1545608359 - NamedType 2823851010" size-unit="char" translate="yes" xml:space="preserve">
@@ -7740,7 +7944,7 @@
         <trans-unit id="Codeunit 918316910 - NamedType 3950098385" size-unit="char" translate="yes" xml:space="preserve">
           <source>#1###################################### \Progress @2@@@@@@@@@@@@@@@@@@</source>
           <target state="translated">#1###################################### \Napredak @2@@@@@@@@@@@@@@@@@@</target>
-          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Developer" annotates="general" priority="2">%1 = Progress, %2 = Table Name</note>
           <note from="Xliff Generator" annotates="general" priority="3">Codeunit Usage Based Billing Mgmt. - NamedType ProgressLbl</note>
         </trans-unit>
         <trans-unit id="Codeunit 918316910 - NamedType 3331880969" size-unit="char" translate="yes" xml:space="preserve">
@@ -7758,7 +7962,7 @@
         <trans-unit id="Codeunit 2039096620 - NamedType 631911892" size-unit="char" translate="yes" xml:space="preserve">
           <source>Conversion of option %1 to %2 is not possible.</source>
           <target state="translated">Konverzija opcije %1 u %2 nije moguća.</target>
-          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Developer" annotates="general" priority="2">%1=Source Option, %2=Target Option</note>
           <note from="Xliff Generator" annotates="general" priority="3">Codeunit Usage Based Doc. Type Conv. - NamedType ConversionNotAllowedErr</note>
         </trans-unit>
         <trans-unit id="Page 2226129596 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
@@ -7822,20 +8026,20 @@
           <note from="Xliff Generator" annotates="general" priority="3">Page Archived Billing Lines - Control Discount % - Property ToolTip</note>
         </trans-unit>
         <trans-unit id="Page 2226129596 - Control 2480638018 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
-          <source>Shows the document line number of the document, it was posted in.</source>
-          <target state="translated">Prikaz broja reda dokumenta u kojem je proknjižen.</target>
+          <source>Specifies the document line number of the document, it was posted in.</source>
+          <target state="needs-l10n">Određuje broj linije dokumenta dokumenta, on je postavljen u.</target>
           <note from="Developer" annotates="general" priority="2"/>
           <note from="Xliff Generator" annotates="general" priority="3">Page Archived Billing Lines - Control Document Line No. - Property ToolTip</note>
         </trans-unit>
         <trans-unit id="Page 2226129596 - Control 486908828 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
-          <source>Shows the document number of the document created for posting.</source>
-          <target state="translated">Prikaz broja dokumenta koji je kreiran za knjiženje.</target>
+          <source>Specifies the document number of the document created for posting.</source>
+          <target state="needs-l10n">Određuje broj dokumenta dokumenta kreiranog za objavljivanje.</target>
           <note from="Developer" annotates="general" priority="2"/>
           <note from="Xliff Generator" annotates="general" priority="3">Page Archived Billing Lines - Control Document No. - Property ToolTip</note>
         </trans-unit>
         <trans-unit id="Page 2226129596 - Control 2363328873 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
-          <source>Shows the document type of the document created for posting.</source>
-          <target state="translated">Prikaz tipa dokumenta koji je kreiran za knjiženje.</target>
+          <source>Specifies the document type of the document created for posting.</source>
+          <target state="needs-l10n">Određuje tip dokumenta dokumenta kreiranog za objavljivanje.</target>
           <note from="Developer" annotates="general" priority="2"/>
           <note from="Xliff Generator" annotates="general" priority="3">Page Archived Billing Lines - Control Document Type - Property ToolTip</note>
         </trans-unit>
@@ -7912,8 +8116,8 @@
           <note from="Xliff Generator" annotates="general" priority="3">Page Archived Billing Lines - Control Unit Price - Property ToolTip</note>
         </trans-unit>
         <trans-unit id="Page 2226129596 - Control 2708250016 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
-          <source>Shows the user who created the line.</source>
-          <target state="translated">Prikaz korisnika koji je kreirao red.</target>
+          <source>Specifies the user who created the line.</source>
+          <target state="needs-l10n">Određuje korisnika koji je kreirao liniju.</target>
           <note from="Developer" annotates="general" priority="2"/>
           <note from="Xliff Generator" annotates="general" priority="3">Page Archived Billing Lines - Control User ID - Property ToolTip</note>
         </trans-unit>
@@ -7990,20 +8194,20 @@
           <note from="Xliff Generator" annotates="general" priority="3">Page Archived Billing Lines List - Control Discount % - Property ToolTip</note>
         </trans-unit>
         <trans-unit id="Page 3388100174 - Control 2480638018 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
-          <source>Shows the document line number of the document, it was posted in.</source>
-          <target state="translated">Prikaz broja reda dokumenta u kojem je proknjižen.</target>
+          <source>Specifies the document line number of the document, it was posted in.</source>
+          <target state="needs-l10n">Određuje broj linije dokumenta dokumenta, on je postavljen u.</target>
           <note from="Developer" annotates="general" priority="2"/>
           <note from="Xliff Generator" annotates="general" priority="3">Page Archived Billing Lines List - Control Document Line No. - Property ToolTip</note>
         </trans-unit>
         <trans-unit id="Page 3388100174 - Control 486908828 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
-          <source>Shows the document number of the document created for posting.</source>
-          <target state="translated">Prikaz broja dokumenta koji je kreiran za knjiženje.</target>
+          <source>Specifies the document number of the document created for posting.</source>
+          <target state="needs-l10n">Određuje broj dokumenta dokumenta kreiranog za objavljivanje.</target>
           <note from="Developer" annotates="general" priority="2"/>
           <note from="Xliff Generator" annotates="general" priority="3">Page Archived Billing Lines List - Control Document No. - Property ToolTip</note>
         </trans-unit>
         <trans-unit id="Page 3388100174 - Control 2363328873 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
-          <source>Shows the document type of the document created for posting.</source>
-          <target state="translated">Prikaz tipa dokumenta koji je kreiran za knjiženje.</target>
+          <source>Specifies the document type of the document created for posting.</source>
+          <target state="needs-l10n">Određuje tip dokumenta dokumenta kreiranog za objavljivanje.</target>
           <note from="Developer" annotates="general" priority="2"/>
           <note from="Xliff Generator" annotates="general" priority="3">Page Archived Billing Lines List - Control Document Type - Property ToolTip</note>
         </trans-unit>
@@ -8110,8 +8314,8 @@
           <note from="Xliff Generator" annotates="general" priority="3">Page Archived Billing Lines List - Control Unit Price - Property ToolTip</note>
         </trans-unit>
         <trans-unit id="Page 3388100174 - Control 2708250016 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
-          <source>Shows the user who created the line.</source>
-          <target state="translated">Prikaz korisnika koji je kreirao red.</target>
+          <source>Specifies the user who created the line.</source>
+          <target state="needs-l10n">Određuje korisnika koji je kreirao liniju.</target>
           <note from="Developer" annotates="general" priority="2"/>
           <note from="Xliff Generator" annotates="general" priority="3">Page Archived Billing Lines List - Control User ID - Property ToolTip</note>
         </trans-unit>
@@ -8190,7 +8394,7 @@
         <trans-unit id="Page 1983185816 - Method 3554514845 - NamedType 4225378973" size-unit="char" translate="yes" xml:space="preserve">
           <source>The %1 %2 can not be used with Item %3, because at least one of the Service Commitment Package lines is missing an "Invoicing Item No."</source>
           <target state="translated">%1 %2 ne može da se koristi sa artiklom %3, jer bar jednom redu paketa servisne obaveze nedostaje "Br. artikla za fakturisanje”.</target>
-          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Developer" annotates="general" priority="2">%1=Table Caption, %2=Code, %3=Item No.</note>
           <note from="Xliff Generator" annotates="general" priority="3">Page Assign Service Commitments - Method ErrorIfInvoicingItemNoIsMissingForSalesWithServiceCommitmentItem - NamedType EmptyInvoicingItemNoInPackageLineErr</note>
         </trans-unit>
         <trans-unit id="Page 1983185816 - Control 2445482498 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
@@ -8374,20 +8578,20 @@
           <note from="Xliff Generator" annotates="general" priority="3">Page Billing Lines - Control Discount % - Property ToolTip</note>
         </trans-unit>
         <trans-unit id="Page 2874599362 - Control 2480638018 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
-          <source>Shows the document line number of the document created for posting.</source>
-          <target state="translated">Prikaz broja reda dokumenta koji je kreiran za knjiženje.</target>
+          <source>Specifies the document line number of the document created for posting.</source>
+          <target state="needs-l10n">Određuje broj linije dokumenta dokumenta kreiranog za knjiženje.</target>
           <note from="Developer" annotates="general" priority="2"/>
           <note from="Xliff Generator" annotates="general" priority="3">Page Billing Lines - Control Document Line No. - Property ToolTip</note>
         </trans-unit>
         <trans-unit id="Page 2874599362 - Control 486908828 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
-          <source>Shows the document number of the document created for posting.</source>
-          <target state="translated">Prikaz broja dokumenta koji je kreiran za knjiženje.</target>
+          <source>Specifies the document number of the document created for posting.</source>
+          <target state="needs-l10n">Određuje broj dokumenta dokumenta kreiranog za objavljivanje.</target>
           <note from="Developer" annotates="general" priority="2"/>
           <note from="Xliff Generator" annotates="general" priority="3">Page Billing Lines - Control Document No. - Property ToolTip</note>
         </trans-unit>
         <trans-unit id="Page 2874599362 - Control 2363328873 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
-          <source>Shows the document type of the document created for posting.</source>
-          <target state="translated">Prikaz tipa dokumenta koji je kreiran za knjiženje.</target>
+          <source>Specifies the document type of the document created for posting.</source>
+          <target state="needs-l10n">Određuje tip dokumenta dokumenta kreiranog za objavljivanje.</target>
           <note from="Developer" annotates="general" priority="2"/>
           <note from="Xliff Generator" annotates="general" priority="3">Page Billing Lines - Control Document Type - Property ToolTip</note>
         </trans-unit>
@@ -8470,8 +8674,8 @@
           <note from="Xliff Generator" annotates="general" priority="3">Page Billing Lines - Control Update Required - Property ToolTip</note>
         </trans-unit>
         <trans-unit id="Page 2874599362 - Control 2708250016 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
-          <source>Shows the user who created the line.</source>
-          <target state="translated">Prikaz korisnika koji je kreirao red.</target>
+          <source>Specifies the user who created the line.</source>
+          <target state="needs-l10n">Određuje korisnika koji je kreirao liniju.</target>
           <note from="Developer" annotates="general" priority="2"/>
           <note from="Xliff Generator" annotates="general" priority="3">Page Billing Lines - Control User ID - Property ToolTip</note>
         </trans-unit>
@@ -8560,20 +8764,20 @@
           <note from="Xliff Generator" annotates="general" priority="3">Page Billing Lines List - Control Discount % - Property ToolTip</note>
         </trans-unit>
         <trans-unit id="Page 3410184032 - Control 2480638018 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
-          <source>Shows the document line number of the document created for posting.</source>
-          <target state="translated">Prikaz broja reda dokumenta koji je kreiran za knjiženje.</target>
+          <source>Specifies the document line number of the document created for posting.</source>
+          <target state="needs-l10n">Određuje broj linije dokumenta dokumenta kreiranog za knjiženje.</target>
           <note from="Developer" annotates="general" priority="2"/>
           <note from="Xliff Generator" annotates="general" priority="3">Page Billing Lines List - Control Document Line No. - Property ToolTip</note>
         </trans-unit>
         <trans-unit id="Page 3410184032 - Control 486908828 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
-          <source>Shows the document number of the document created for posting.</source>
-          <target state="translated">Prikaz broja dokumenta koji je kreiran za knjiženje.</target>
+          <source>Specifies the document number of the document created for posting.</source>
+          <target state="needs-l10n">Određuje broj dokumenta dokumenta kreiranog za objavljivanje.</target>
           <note from="Developer" annotates="general" priority="2"/>
           <note from="Xliff Generator" annotates="general" priority="3">Page Billing Lines List - Control Document No. - Property ToolTip</note>
         </trans-unit>
         <trans-unit id="Page 3410184032 - Control 2363328873 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
-          <source>Shows the document type of the document created for posting.</source>
-          <target state="translated">Prikaz tipa dokumenta koji je kreiran za knjiženje.</target>
+          <source>Specifies the document type of the document created for posting.</source>
+          <target state="needs-l10n">Određuje tip dokumenta dokumenta kreiranog za objavljivanje.</target>
           <note from="Developer" annotates="general" priority="2"/>
           <note from="Xliff Generator" annotates="general" priority="3">Page Billing Lines List - Control Document Type - Property ToolTip</note>
         </trans-unit>
@@ -8692,8 +8896,8 @@
           <note from="Xliff Generator" annotates="general" priority="3">Page Billing Lines List - Control Update Required - Property ToolTip</note>
         </trans-unit>
         <trans-unit id="Page 3410184032 - Control 2708250016 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
-          <source>Shows the user who created the line.</source>
-          <target state="translated">Prikaz korisnika koji je kreirao red.</target>
+          <source>Specifies the user who created the line.</source>
+          <target state="needs-l10n">Određuje korisnika koji je kreirao liniju.</target>
           <note from="Developer" annotates="general" priority="2"/>
           <note from="Xliff Generator" annotates="general" priority="3">Page Billing Lines List - Control User ID - Property ToolTip</note>
         </trans-unit>
@@ -8776,8 +8980,8 @@
           <note from="Xliff Generator" annotates="general" priority="3">Page Billing Templates - Control Group by - Property ToolTip</note>
         </trans-unit>
         <trans-unit id="Page 1929828852 - Control 2801346406 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
-          <source>Shows if the filters of the template are defined.</source>
-          <target state="translated">Prikazuje da li su filteri obrasca definisani.</target>
+          <source>Specifies if the filters of the template are defined.</source>
+          <target state="needs-l10n">Specificira da li su filteri šablona definisani.</target>
           <note from="Developer" annotates="general" priority="2"/>
           <note from="Xliff Generator" annotates="general" priority="3">Page Billing Templates - Control HasContractFilterField - Property ToolTip</note>
         </trans-unit>
@@ -8794,8 +8998,8 @@
           <note from="Xliff Generator" annotates="general" priority="3">Page Billing Templates - Control My Suggestions Only - Property ToolTip</note>
         </trans-unit>
         <trans-unit id="Page 1929828852 - Control 186081026 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
-          <source>Determines whether the template applies to customer or Vendor Subscription Contracts.</source>
-          <target state="translated">Određuje da li se obrazac primenjuje na ugovore o pretplati sa kupcem ili sa dobavljačem.</target>
+          <source>Specifies whether the template applies to customer or Vendor Subscription Contracts.</source>
+          <target state="needs-l10n">Određuje da li se šablon odnosi na ugovore o pretplati kupca ili dobavljača.</target>
           <note from="Developer" annotates="general" priority="2"/>
           <note from="Xliff Generator" annotates="general" priority="3">Page Billing Templates - Control Partner - Property ToolTip</note>
         </trans-unit>
@@ -8842,8 +9046,8 @@
           <note from="Xliff Generator" annotates="general" priority="3">Page Change Date - NamedType NoDateErr</note>
         </trans-unit>
         <trans-unit id="Page 3970350934 - Control 3192175264 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
-          <source>Enter the new Date.</source>
-          <target state="translated">Unesite novi datum.</target>
+          <source>Specifies the new Date.</source>
+          <target state="needs-l10n">Određuje novi datum.</target>
           <note from="Developer" annotates="general" priority="2"/>
           <note from="Xliff Generator" annotates="general" priority="3">Page Change Date - Control Date - Property ToolTip</note>
         </trans-unit>
@@ -9076,8 +9280,8 @@
           <note from="Xliff Generator" annotates="general" priority="3">Page Closed Cust. Cont. Line Subp. - Control Package Code - Property Caption</note>
         </trans-unit>
         <trans-unit id="Page 1642888827 - Control 2377237336 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
-          <source>The Period Calculation controls how a period is determined for billing. The calculation of a month from 28.02. can extend to 27.03. (Align to Start of Month) or 30.03. (Align to End of Month).</source>
-          <target state="translated">Metod "Izračunavanje perioda” određuje kako se period utvrđuje za fakturisanje. Primer: izračunavanje meseca od 28.02. može da traje do 27.03. (Uskladi sa početkom meseca) ili do 30.03. (Uskladi sa krajem meseca).</target>
+          <source>Specifies the Period Calculation, which controls how a period is determined for billing. The calculation of a month from 28.02. can extend to 27.03. (Align to Start of Month) or 30.03. (Align to End of Month).</source>
+          <target state="needs-l10n">Određuje obračun perioda, koji kontroliše kako se određuje period za naplatu. Obračun mesec dana od 28.02. može se proširiti na 27.03. (Poravnajte sa početkom meseca) ili 30.03. (Poravnajte do kraja meseca).</target>
           <note from="Developer" annotates="general" priority="2"/>
           <note from="Xliff Generator" annotates="general" priority="3">Page Closed Cust. Cont. Line Subp. - Control Period Calculation - Property ToolTip</note>
         </trans-unit>
@@ -9466,8 +9670,8 @@
           <note from="Xliff Generator" annotates="general" priority="3">Page Closed Vend. Cont. Line Subp. - Control Package Code - Property Caption</note>
         </trans-unit>
         <trans-unit id="Page 3740541235 - Control 2377237336 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
-          <source>The Period Calculation controls how a period is determined for billing. The calculation of a month from 28.02. can extend to 27.03. (Align to Start of Month) or 30.03. (Align to End of Month).</source>
-          <target state="translated">Metod "Izračunavanje perioda” određuje kako se period utvrđuje za fakturisanje. Primer: izračunavanje meseca od 28.02. može da traje do 27.03. (Uskladi sa početkom meseca) ili do 30.03. (Uskladi sa krajem meseca).</target>
+          <source>Specifies the Period Calculation, which controls how a period is determined for billing. The calculation of a month from 28.02. can extend to 27.03. (Align to Start of Month) or 30.03. (Align to End of Month).</source>
+          <target state="needs-l10n">Određuje obračun perioda, koji kontroliše kako se određuje period za naplatu. Obračun mesec dana od 28.02. može se proširiti na 27.03. (Poravnajte sa početkom meseca) ili 30.03. (Poravnajte do kraja meseca).</target>
           <note from="Developer" annotates="general" priority="2"/>
           <note from="Xliff Generator" annotates="general" priority="3">Page Closed Vend. Cont. Line Subp. - Control Period Calculation - Property ToolTip</note>
         </trans-unit>
@@ -10108,8 +10312,8 @@
           <note from="Xliff Generator" annotates="general" priority="3">Page Contract Renewal - Control ContractDescriptionField - Property Caption</note>
         </trans-unit>
         <trans-unit id="Page 2997449368 - Control 2852966117 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
-          <source>Shows the last error that occured when processing the line.</source>
-          <target state="translated">Prikazuje poslednju grešku koja je nastala pri obradi reda.</target>
+          <source>Specifies the last error that occured when processing the line.</source>
+          <target state="needs-l10n">Određuje poslednju grešku koja se desila prilikom obrade linije.</target>
           <note from="Developer" annotates="general" priority="2"/>
           <note from="Xliff Generator" annotates="general" priority="3">Page Contract Renewal - Control Error Message - Property ToolTip</note>
         </trans-unit>
@@ -10120,8 +10324,8 @@
           <note from="Xliff Generator" annotates="general" priority="3">Page Contract Renewal - Control Linked to Contract No. - Property ToolTip</note>
         </trans-unit>
         <trans-unit id="Page 2997449368 - Control 186081026 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
-          <source>Determines whether the template applies to customer or Vendor Subscription Contracts.</source>
-          <target state="translated">Određuje da li se obrazac primenjuje na ugovore o pretplati sa kupcem ili sa dobavljačem.</target>
+          <source>Specifies whether the template applies to customer or Vendor Subscription Contracts.</source>
+          <target state="needs-l10n">Određuje da li se šablon odnosi na ugovore o pretplati kupca ili dobavljača.</target>
           <note from="Developer" annotates="general" priority="2"/>
           <note from="Xliff Generator" annotates="general" priority="3">Page Contract Renewal - Control Partner - Property ToolTip</note>
         </trans-unit>
@@ -10182,7 +10386,7 @@
         <trans-unit id="Page 2997449368 - Action 475219876 - Method 1377591017 - NamedType 895773054" size-unit="char" translate="yes" xml:space="preserve">
           <source>All Lines (%1),Selected Lines (%2)</source>
           <target state="translated">Svi redovi (%1), Izabrani redovi (%2)</target>
-          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Developer" annotates="general" priority="2">%1=All Lines Count, %2=Selected Lines Count</note>
           <note from="Xliff Generator" annotates="general" priority="3">Page Contract Renewal - Action CreateContractRenewal - Method OnAction - NamedType SelectionLbl</note>
         </trans-unit>
         <trans-unit id="Page 2997449368 - Action 2545318555 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
@@ -10314,31 +10518,31 @@
         <trans-unit id="Page 4220168832 - Method 2451180830 - NamedType 3844397812" size-unit="char" translate="yes" xml:space="preserve">
           <source>A Sales document already exists for %1 %2, %3 %4.</source>
           <target state="translated">Prodajni dokument već postoji za %1 %2, %3 %4.</target>
-          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Developer" annotates="general" priority="2">%1=Table Caption, %2=Subscription Header No., %3=Field Caption, %4=Line No.</note>
           <note from="Xliff Generator" annotates="general" priority="3">Page Contract Renewal Selection - Method CheckContractLine - NamedType ContractRenewalDocumentAlreadyExistsErr</note>
         </trans-unit>
         <trans-unit id="Page 4220168832 - Method 2451180830 - NamedType 2789670011" size-unit="char" translate="yes" xml:space="preserve">
           <source>A Contract Renewal Line already exists for %1 %2, %3 %4.</source>
           <target state="translated">Red obnove ugovora već postoji za %1 %2, %3 %4.</target>
-          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Developer" annotates="general" priority="2">%1=Table Caption, %2=Subscription Header No., %3=Field Caption, %4=Line No.</note>
           <note from="Xliff Generator" annotates="general" priority="3">Page Contract Renewal Selection - Method CheckContractLine - NamedType ContractRenewalLineAlreadyExistsErr</note>
         </trans-unit>
         <trans-unit id="Page 4220168832 - Method 2720537141 - NamedType 2491588100" size-unit="char" translate="yes" xml:space="preserve">
           <source>Add Vendor Subscription Contract Lines (%1)</source>
           <target state="translated">Dodajte redove ugovora o pretplati dobavljača (%1)</target>
-          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Developer" annotates="general" priority="2">%1=Number of Vendor Subscription Contract Lines</note>
           <note from="Xliff Generator" annotates="general" priority="3">Page Contract Renewal Selection - Method GetAddVendorServicesCaption - NamedType AddVendorContractLinesLbl</note>
         </trans-unit>
         <trans-unit id="Page 4220168832 - Method 4177352842 - NamedType 539847537" size-unit="char" translate="yes" xml:space="preserve">
           <source>At least one check failed. Do you want to close the page and abort the process?\\The following error was found:\%1</source>
           <target state="translated">Najmanje jedna provera nije uspela. Želite li da zatvorite stranicu i prekinete proces?\\Pronađena je sledeća greška:\%1</target>
-          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Developer" annotates="general" priority="2">%1=Error Text</note>
           <note from="Xliff Generator" annotates="general" priority="3">Page Contract Renewal Selection - Method OnQueryClosePage - NamedType DataIncompleteCloseAnywayQst</note>
         </trans-unit>
         <trans-unit id="Page 4220168832 - Method 4177352842 - NamedType 887396971" size-unit="char" translate="yes" xml:space="preserve">
           <source>The following  error occured while processing:\\%1</source>
           <target state="translated">Došlo je do sledeće greške tokom obrade:\\%1</target>
-          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Developer" annotates="general" priority="2">%1=Error Text</note>
           <note from="Xliff Generator" annotates="general" priority="3">Page Contract Renewal Selection - Method OnQueryClosePage - NamedType ErrorDuringProcessingMsg</note>
         </trans-unit>
         <trans-unit id="Page 4220168832 - Control 3471137671 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
@@ -10438,8 +10642,8 @@
           <note from="Xliff Generator" annotates="general" priority="3">Page Contract Renewal Selection - Control Initial Term - Property Caption</note>
         </trans-unit>
         <trans-unit id="Page 4220168832 - Control 3195396816 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
-          <source>Displays the result of a preliminary check to see if the line is valid for a Contract Renewal.</source>
-          <target state="translated">Prikazuje rezultat preliminarne provere da li je red podoban za obnovu ugovora.</target>
+          <source>Specifies the result of a preliminary check to see if the line is valid for a Contract Renewal.</source>
+          <target state="needs-l10n">Određuje rezultat preliminarne provere da vidi da li je linija važi za obnovu ugovora.</target>
           <note from="Developer" annotates="general" priority="2"/>
           <note from="Xliff Generator" annotates="general" priority="3">Page Contract Renewal Selection - Control LineCheckTextCtrl - Property ToolTip</note>
         </trans-unit>
@@ -10660,8 +10864,8 @@
           <note from="Xliff Generator" annotates="general" priority="3">Page Contract Types - Control HarmonizedBillingCustContracts - Property ToolTip</note>
         </trans-unit>
         <trans-unit id="Page 4018737939 - Control 3226190995 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
-          <source>Shows the number of translations.</source>
-          <target state="translated">Prikaz broja prevoda.</target>
+          <source>Specifies the number of translations.</source>
+          <target state="needs-l10n">Određuje broj prevoda.</target>
           <note from="Developer" annotates="general" priority="2"/>
           <note from="Xliff Generator" annotates="general" priority="3">Page Contract Types - Control NoOfTranslationsCtrl - Property ToolTip</note>
         </trans-unit>
@@ -11098,8 +11302,8 @@
           <note from="Xliff Generator" annotates="general" priority="3">Page Customer Contract - Control DescriptionText - Property ToolTip</note>
         </trans-unit>
         <trans-unit id="Page 1844147434 - Control 3555639410 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
-          <source>Specifies the Project number from which the dimensions for the contract are transfered.</source>
-          <target state="translated">Određuje broj projekta iz kog se dimenzije za ugovor prenose.</target>
+          <source>Specifies the Project number from which the dimensions for the contract are transferred.</source>
+          <target state="needs-l10n">Određuje broj projekta iz kojeg se prenose dimenzije ugovora.</target>
           <note from="Developer" annotates="general" priority="2"/>
           <note from="Xliff Generator" annotates="general" priority="3">Page Customer Contract - Control Dimension from Job No. - Property ToolTip</note>
         </trans-unit>
@@ -12250,8 +12454,8 @@
           <note from="Xliff Generator" annotates="general" priority="3">Page Customer Contract Line Subp. - Control Package Code - Property Caption</note>
         </trans-unit>
         <trans-unit id="Page 156152318 - Control 2377237336 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
-          <source>The Period Calculation controls how a period is determined for billing. The calculation of a month from 28.02. can extend to 27.03. (Align to Start of Month) or 30.03. (Align to End of Month).</source>
-          <target state="translated">Metod "Izračunavanje perioda” određuje kako se period utvrđuje za fakturisanje. Primer: izračunavanje meseca od 28.02. može da traje do 27.03. (Uskladi sa početkom meseca) ili do 30.03. (Uskladi sa krajem meseca).</target>
+          <source>Specifies the Period Calculation, which controls how a period is determined for billing. The calculation of a month from 28.02. can extend to 27.03. (Align to Start of Month) or 30.03. (Align to End of Month).</source>
+          <target state="needs-l10n">Određuje obračun perioda, koji kontroliše kako se određuje period za naplatu. Obračun mesec dana od 28.02. može se proširiti na 27.03. (Poravnajte sa početkom meseca) ili 30.03. (Poravnajte do kraja meseca).</target>
           <note from="Developer" annotates="general" priority="2"/>
           <note from="Xliff Generator" annotates="general" priority="3">Page Customer Contract Line Subp. - Control Period Calculation - Property ToolTip</note>
         </trans-unit>
@@ -12394,8 +12598,8 @@
           <note from="Xliff Generator" annotates="general" priority="3">Page Customer Contract Line Subp. - Control Service Start Date - Property Caption</note>
         </trans-unit>
         <trans-unit id="Page 156152318 - Control 2758357644 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
-          <source>Displays the primary attribute of the related Subscription.</source>
-          <target state="translated">Prikazuje primarni atribut povezane pretplate.</target>
+          <source>Specifies the primary attribute of the related Subscription.</source>
+          <target state="needs-l10n">Određuje primarni atribut povezane pretplate.</target>
           <note from="Developer" annotates="general" priority="2"/>
           <note from="Xliff Generator" annotates="general" priority="3">Page Customer Contract Line Subp. - Control ServiceObjectPrimaryAttribute - Property ToolTip</note>
         </trans-unit>
@@ -12754,8 +12958,8 @@
           <note from="Xliff Generator" annotates="general" priority="3">Page Customer Contract Lines - Control Service Start Date - Property Caption</note>
         </trans-unit>
         <trans-unit id="Page 887240253 - Control 2758357644 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
-          <source>Displays the primary attribute of the related Subscription.</source>
-          <target state="translated">Prikazuje primarni atribut povezane pretplate.</target>
+          <source>Specifies the primary attribute of the related Subscription.</source>
+          <target state="needs-l10n">Određuje primarni atribut povezane pretplate.</target>
           <note from="Developer" annotates="general" priority="2"/>
           <note from="Xliff Generator" annotates="general" priority="3">Page Customer Contract Lines - Control ServiceObjectPrimaryAttribute - Property ToolTip</note>
         </trans-unit>
@@ -13456,8 +13660,8 @@
           <note from="Xliff Generator" annotates="general" priority="3">Page Generic Import Settings Card - Control Additional Processing - Property ToolTip</note>
         </trans-unit>
         <trans-unit id="Page 2554371247 - Control 138981485 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
-          <source>Defines whether the associated customers should also be created as usage data when importing the billing data.</source>
-          <target state="translated">Određuje da li će povezani kupci biti automatski kreirani kao kupci za podatke o korišćenju prilikom uvoza podataka za fakturisanje.</target>
+          <source>Specifies whether the associated customers should also be created as usage data when importing the billing data.</source>
+          <target state="needs-l10n">Određuje da li povezani kupci takođe treba da budu kreirani kao podaci o korišćenju prilikom uvoza podataka o naplati.</target>
           <note from="Developer" annotates="general" priority="2"/>
           <note from="Xliff Generator" annotates="general" priority="3">Page Generic Import Settings Card - Control Create Customers - Property ToolTip</note>
         </trans-unit>
@@ -13588,8 +13792,8 @@
           <note from="Xliff Generator" annotates="general" priority="3">Page Get Vendor Contract Lines - Control Service Object Quantity - Property ToolTip</note>
         </trans-unit>
         <trans-unit id="Page 2520676567 - Control 2991286571 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
-          <source> Specifies the amount to be charged.</source>
-          <target state="translated">Određuje iznos za fakturisanje.</target>
+          <source>Specifies the amount to be charged.</source>
+          <target state="needs-l10n">Određuje iznos koji se naplaćuje.</target>
           <note from="Developer" annotates="general" priority="2"/>
           <note from="Xliff Generator" annotates="general" priority="3">Page Get Vendor Contract Lines - Control Vendor Invoice Amount - Property ToolTip</note>
         </trans-unit>
@@ -13690,8 +13894,8 @@
           <note from="Xliff Generator" annotates="general" priority="3">Page Imported Customer Contracts - Control Detail Overview - Property ToolTip</note>
         </trans-unit>
         <trans-unit id="Page 20514507 - Control 3555639410 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
-          <source>Specifies the Project number from which the dimensions for the contract are transfered.</source>
-          <target state="translated">Određuje broj projekta iz kog se dimenzije za ugovor prenose.</target>
+          <source>Specifies the Project number from which the dimensions for the contract are transferred.</source>
+          <target state="needs-l10n">Određuje broj projekta iz kojeg se prenose dimenzije ugovora.</target>
           <note from="Developer" annotates="general" priority="2"/>
           <note from="Xliff Generator" annotates="general" priority="3">Page Imported Customer Contracts - Control Dimension from Job No. - Property ToolTip</note>
         </trans-unit>
@@ -14674,8 +14878,8 @@
           <note from="Xliff Generator" annotates="general" priority="3">Page Price Update Templates - Control Code - Property ToolTip</note>
         </trans-unit>
         <trans-unit id="Page 2977800337 - Control 112160102 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
-          <source>Shows if a filters has been defined for the template.</source>
-          <target state="translated">Prikazuje da li je definisan filter za obrazac.</target>
+          <source>Specifies if a filter has been defined for the template.</source>
+          <target state="needs-l10n">Specificira da li je filter definisan za šablon.</target>
           <note from="Developer" annotates="general" priority="2"/>
           <note from="Xliff Generator" annotates="general" priority="3">Page Price Update Templates - Control Contract Filter - Property ToolTip</note>
         </trans-unit>
@@ -14704,8 +14908,8 @@
           <note from="Xliff Generator" annotates="general" priority="3">Page Price Update Templates - Control InclContrLinesUpToDateFormula - Property ToolTip</note>
         </trans-unit>
         <trans-unit id="Page 2977800337 - Control 186081026 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
-          <source>Determines whether the template applies to customer or Vendor Subscription Contracts.</source>
-          <target state="translated">Određuje da li se obrazac primenjuje na ugovore o pretplati sa kupcem ili sa dobavljačem.</target>
+          <source>Specifies whether the template applies to customer or Vendor Subscription Contracts.</source>
+          <target state="needs-l10n">Određuje da li se šablon odnosi na ugovore o pretplati kupca ili dobavljača.</target>
           <note from="Developer" annotates="general" priority="2"/>
           <note from="Xliff Generator" annotates="general" priority="3">Page Price Update Templates - Control Partner - Property ToolTip</note>
         </trans-unit>
@@ -14728,8 +14932,8 @@
           <note from="Xliff Generator" annotates="general" priority="3">Page Price Update Templates - Control Price Update Method - Property ToolTip</note>
         </trans-unit>
         <trans-unit id="Page 2977800337 - Control 2744589346 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
-          <source>Shows if a filters has been defined for the template.</source>
-          <target state="translated">Prikazuje da li je definisan filter za obrazac.</target>
+          <source>Specifies if a filter has been defined for the template.</source>
+          <target state="needs-l10n">Specificira da li je filter definisan za šablon.</target>
           <note from="Developer" annotates="general" priority="2"/>
           <note from="Xliff Generator" annotates="general" priority="3">Page Price Update Templates - Control Service Commitment Filter - Property ToolTip</note>
         </trans-unit>
@@ -14740,8 +14944,8 @@
           <note from="Xliff Generator" annotates="general" priority="3">Page Price Update Templates - Control Service Commitment Filter - Property Caption</note>
         </trans-unit>
         <trans-unit id="Page 2977800337 - Control 3226821860 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
-          <source>Shows if a filters has been defined for the template.</source>
-          <target state="translated">Prikazuje da li je definisan filter za obrazac.</target>
+          <source>Specifies if a filter has been defined for the template.</source>
+          <target state="needs-l10n">Specificira da li je filter definisan za šablon.</target>
           <note from="Developer" annotates="general" priority="2"/>
           <note from="Xliff Generator" annotates="general" priority="3">Page Price Update Templates - Control Service Object Filter - Property ToolTip</note>
         </trans-unit>
@@ -14818,14 +15022,14 @@
           <note from="Xliff Generator" annotates="general" priority="3">Page Recurring Billing - Control Discount % - Property ToolTip</note>
         </trans-unit>
         <trans-unit id="Page 3704080430 - Control 486908828 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
-          <source>Shows the document number of the document created for posting.</source>
-          <target state="translated">Prikaz broja dokumenta koji je kreiran za knjiženje.</target>
+          <source>Specifies the document number of the document created for posting.</source>
+          <target state="needs-l10n">Određuje broj dokumenta dokumenta kreiranog za objavljivanje.</target>
           <note from="Developer" annotates="general" priority="2"/>
           <note from="Xliff Generator" annotates="general" priority="3">Page Recurring Billing - Control Document No. - Property ToolTip</note>
         </trans-unit>
         <trans-unit id="Page 3704080430 - Control 2363328873 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
-          <source>Shows the document type of the document created for posting.</source>
-          <target state="translated">Prikaz tipa dokumenta koji je kreiran za knjiženje.</target>
+          <source>Specifies the document type of the document created for posting.</source>
+          <target state="needs-l10n">Određuje tip dokumenta dokumenta kreiranog za objavljivanje.</target>
           <note from="Developer" annotates="general" priority="2"/>
           <note from="Xliff Generator" annotates="general" priority="3">Page Recurring Billing - Control Document Type - Property ToolTip</note>
         </trans-unit>
@@ -14908,8 +15112,8 @@
           <note from="Xliff Generator" annotates="general" priority="3">Page Recurring Billing - Control Update Required - Property ToolTip</note>
         </trans-unit>
         <trans-unit id="Page 3704080430 - Control 2708250016 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
-          <source>Shows the user who created the line.</source>
-          <target state="translated">Prikaz korisnika koji je kreirao red.</target>
+          <source>Specifies the user who created the line.</source>
+          <target state="needs-l10n">Određuje korisnika koji je kreirao liniju.</target>
           <note from="Developer" annotates="general" priority="2"/>
           <note from="Xliff Generator" annotates="general" priority="3">Page Recurring Billing - Control User ID - Property ToolTip</note>
         </trans-unit>
@@ -15310,20 +15514,20 @@
           <note from="Xliff Generator" annotates="general" priority="3">Page Sales Service Commitments - Control Discount Amount - Property ToolTip</note>
         </trans-unit>
         <trans-unit id="Page 1940275159 - Control 2480638018 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
-          <source>Document Line No.</source>
-          <target state="translated">Br. reda dokumenta</target>
+          <source>Specifies the Document Line No.</source>
+          <target state="translated">Određuje broj reda dokumenta.</target>
           <note from="Developer" annotates="general" priority="2"/>
           <note from="Xliff Generator" annotates="general" priority="3">Page Sales Service Commitments - Control Document Line No. - Property ToolTip</note>
         </trans-unit>
         <trans-unit id="Page 1940275159 - Control 486908828 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
-          <source>Document No.</source>
-          <target state="translated">Br. dokumenta</target>
+          <source>Specifies the Document No.</source>
+          <target state="translated">Određuje broj dokumenta.</target>
           <note from="Developer" annotates="general" priority="2"/>
           <note from="Xliff Generator" annotates="general" priority="3">Page Sales Service Commitments - Control Document No. - Property ToolTip</note>
         </trans-unit>
         <trans-unit id="Page 1940275159 - Control 2363328873 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
-          <source>Document Type.</source>
-          <target state="translated">Tip dokumenta</target>
+          <source>Specifies the Document Type.</source>
+          <target state="translated">Određuje vrstu dokumenta.</target>
           <note from="Developer" annotates="general" priority="2"/>
           <note from="Xliff Generator" annotates="general" priority="3">Page Sales Service Commitments - Control Document Type - Property ToolTip</note>
         </trans-unit>
@@ -15388,8 +15592,8 @@
           <note from="Xliff Generator" annotates="general" priority="3">Page Sales Service Commitments - Control Partner - Property ToolTip</note>
         </trans-unit>
         <trans-unit id="Page 1940275159 - Control 2377237336 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
-          <source>The Period Calculation controls how a period is determined for billing. The calculation of a month from 28.02. can extend to 27.03. (Align to Start of Month) or 30.03. (Align to End of Month).</source>
-          <target state="translated">Metod "Izračunavanje perioda” određuje kako se period utvrđuje za fakturisanje. Primer: izračunavanje meseca od 28.02. može da traje do 27.03. (Uskladi sa početkom meseca) ili do 30.03. (Uskladi sa krajem meseca).</target>
+          <source>Specifies the Period Calculation, which controls how a period is determined for billing. The calculation of a month from 28.02. can extend to 27.03. (Align to Start of Month) or 30.03. (Align to End of Month).</source>
+          <target state="needs-l10n">Određuje obračun perioda, koji kontroliše kako se određuje period za naplatu. Obračun mesec dana od 28.02. može se proširiti na 27.03. (Poravnajte sa početkom meseca) ili 30.03. (Poravnajte do kraja meseca).</target>
           <note from="Developer" annotates="general" priority="2"/>
           <note from="Xliff Generator" annotates="general" priority="3">Page Sales Service Commitments - Control Period Calculation - Property ToolTip</note>
         </trans-unit>
@@ -15604,8 +15808,8 @@
           <note from="Xliff Generator" annotates="general" priority="3">Page Sales Service Commitments List - Control Partner - Property ToolTip</note>
         </trans-unit>
         <trans-unit id="Page 2065999009 - Control 2377237336 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
-          <source>The Period Calculation controls how a period is determined for billing. The calculation of a month from 28.02. can extend to 27.03. (Align to Start of Month) or 30.03. (Align to End of Month).</source>
-          <target state="translated">Metod "Izračunavanje perioda” određuje kako se period utvrđuje za fakturisanje. Primer: izračunavanje meseca od 28.02. može da traje do 27.03. (Uskladi sa početkom meseca) ili do 30.03. (Uskladi sa krajem meseca).</target>
+          <source>Specifies the Period Calculation, which controls how a period is determined for billing. The calculation of a month from 28.02. can extend to 27.03. (Align to Start of Month) or 30.03. (Align to End of Month).</source>
+          <target state="needs-l10n">Određuje obračun perioda, koji kontroliše kako se određuje period za naplatu. Obračun mesec dana od 28.02. može se proširiti na 27.03. (Poravnajte sa početkom meseca) ili 30.03. (Poravnajte do kraja meseca).</target>
           <note from="Developer" annotates="general" priority="2"/>
           <note from="Xliff Generator" annotates="general" priority="3">Page Sales Service Commitments List - Control Period Calculation - Property ToolTip</note>
         </trans-unit>
@@ -15868,8 +16072,8 @@
           <note from="Xliff Generator" annotates="general" priority="3">Page Serv. Comm. WO Cust. Contract - Control Description - Property ToolTip</note>
         </trans-unit>
         <trans-unit id="Page 3380153325 - Control 2377237336 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
-          <source>The Period Calculation controls how a period is determined for billing. The calculation of a month from 28.02. can extend to 27.03. (Align to Start of Month) or 30.03. (Align to End of Month).</source>
-          <target state="translated">Metod "Izračunavanje perioda” određuje kako se period utvrđuje za fakturisanje. Primer: izračunavanje meseca od 28.02. može da traje do 27.03. (Uskladi sa početkom meseca) ili do 30.03. (Uskladi sa krajem meseca).</target>
+          <source>Specifies the Period Calculation, which controls how a period is determined for billing. The calculation of a month from 28.02. can extend to 27.03. (Align to Start of Month) or 30.03. (Align to End of Month).</source>
+          <target state="needs-l10n">Određuje obračun perioda, koji kontroliše kako se određuje period za naplatu. Obračun mesec dana od 28.02. može se proširiti na 27.03. (Poravnajte sa početkom meseca) ili 30.03. (Poravnajte do kraja meseca).</target>
           <note from="Developer" annotates="general" priority="2"/>
           <note from="Xliff Generator" annotates="general" priority="3">Page Serv. Comm. WO Cust. Contract - Control Period Calculation - Property ToolTip</note>
         </trans-unit>
@@ -16018,8 +16222,8 @@
           <note from="Xliff Generator" annotates="general" priority="3">Page Serv. Comm. WO Vend. Contract - Control Description - Property ToolTip</note>
         </trans-unit>
         <trans-unit id="Page 1132816197 - Control 2377237336 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
-          <source>The Period Calculation controls how a period is determined for billing. The calculation of a month from 28.02. can extend to 27.03. (Align to Start of Month) or 30.03. (Align to End of Month).</source>
-          <target state="translated">Metod "Izračunavanje perioda” određuje kako se period utvrđuje za fakturisanje. Primer: izračunavanje meseca od 28.02. može da traje do 27.03. (Uskladi sa početkom meseca) ili do 30.03. (Uskladi sa krajem meseca).</target>
+          <source>Specifies the Period Calculation, which controls how a period is determined for billing. The calculation of a month from 28.02. can extend to 27.03. (Align to Start of Month) or 30.03. (Align to End of Month).</source>
+          <target state="needs-l10n">Određuje obračun perioda, koji kontroliše kako se određuje period za naplatu. Obračun mesec dana od 28.02. može se proširiti na 27.03. (Poravnajte sa početkom meseca) ili 30.03. (Poravnajte do kraja meseca).</target>
           <note from="Developer" annotates="general" priority="2"/>
           <note from="Xliff Generator" annotates="general" priority="3">Page Serv. Comm. WO Vend. Contract - Control Period Calculation - Property ToolTip</note>
         </trans-unit>
@@ -16270,8 +16474,8 @@
           <note from="Xliff Generator" annotates="general" priority="3">Page Service Comm. Package Lines - Control Partner - Property ToolTip</note>
         </trans-unit>
         <trans-unit id="Page 454558252 - Control 2377237336 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
-          <source>The Period Calculation controls how a period is determined for billing. The calculation of a month from 28.02. can extend to 27.03. (Align to Start of Month) or 30.03. (Align to End of Month).</source>
-          <target state="translated">Metod "Izračunavanje perioda” određuje kako se period utvrđuje za fakturisanje. Primer: izračunavanje meseca od 28.02. može da traje do 27.03. (Uskladi sa početkom meseca) ili do 30.03. (Uskladi sa krajem meseca).</target>
+          <source>Specifies the Period Calculation, which controls how a period is determined for billing. The calculation of a month from 28.02. can extend to 27.03. (Align to Start of Month) or 30.03. (Align to End of Month).</source>
+          <target state="needs-l10n">Određuje obračun perioda, koji kontroliše kako se određuje period za naplatu. Obračun mesec dana od 28.02. može se proširiti na 27.03. (Poravnajte sa početkom meseca) ili 30.03. (Poravnajte do kraja meseca).</target>
           <note from="Developer" annotates="general" priority="2"/>
           <note from="Xliff Generator" annotates="general" priority="3">Page Service Comm. Package Lines - Control Period Calculation - Property ToolTip</note>
         </trans-unit>
@@ -16822,8 +17026,8 @@
           <note from="Xliff Generator" annotates="general" priority="3">Page Service Commitments - Control Partner - Property ToolTip</note>
         </trans-unit>
         <trans-unit id="Page 150765807 - Control 2377237336 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
-          <source>The Period Calculation controls how a period is determined for billing. The calculation of a month from 28.02. can extend to 27.03. (Align to Start of Month) or 30.03. (Align to End of Month).</source>
-          <target state="translated">Metod "Izračunavanje perioda” određuje kako se period utvrđuje za fakturisanje. Primer: izračunavanje meseca od 28.02. može da traje do 27.03. (Uskladi sa početkom meseca) ili do 30.03. (Uskladi sa krajem meseca).</target>
+          <source>Specifies the Period Calculation, which controls how a period is determined for billing. The calculation of a month from 28.02. can extend to 27.03. (Align to Start of Month) or 30.03. (Align to End of Month).</source>
+          <target state="needs-l10n">Određuje obračun perioda, koji kontroliše kako se određuje period za naplatu. Obračun mesec dana od 28.02. može se proširiti na 27.03. (Poravnajte sa početkom meseca) ili 30.03. (Poravnajte do kraja meseca).</target>
           <note from="Developer" annotates="general" priority="2"/>
           <note from="Xliff Generator" annotates="general" priority="3">Page Service Commitments - Control Period Calculation - Property ToolTip</note>
         </trans-unit>
@@ -17182,8 +17386,8 @@
           <note from="Xliff Generator" annotates="general" priority="3">Page Service Commitments List - Control Partner - Property ToolTip</note>
         </trans-unit>
         <trans-unit id="Page 3435758329 - Control 2377237336 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
-          <source>The Period Calculation controls how a period is determined for billing. The calculation of a month from 28.02. can extend to 27.03. (Align to Start of Month) or 30.03. (Align to End of Month).</source>
-          <target state="translated">Metod "Izračunavanje perioda” određuje kako se period utvrđuje za fakturisanje. Primer: izračunavanje meseca od 28.02. može da traje do 27.03. (Uskladi sa početkom meseca) ili do 30.03. (Uskladi sa krajem meseca).</target>
+          <source>Specifies the Period Calculation, which controls how a period is determined for billing. The calculation of a month from 28.02. can extend to 27.03. (Align to Start of Month) or 30.03. (Align to End of Month).</source>
+          <target state="needs-l10n">Određuje obračun perioda, koji kontroliše kako se određuje period za naplatu. Obračun mesec dana od 28.02. može se proširiti na 27.03. (Poravnajte sa početkom meseca) ili 30.03. (Poravnajte do kraja meseca).</target>
           <note from="Developer" annotates="general" priority="2"/>
           <note from="Xliff Generator" annotates="general" priority="3">Page Service Commitments List - Control Period Calculation - Property ToolTip</note>
         </trans-unit>
@@ -17680,8 +17884,8 @@
           <note from="Xliff Generator" annotates="general" priority="3">Page Service Object - Control Planned Serv. Comm. exists - Property ToolTip</note>
         </trans-unit>
         <trans-unit id="Page 4265752052 - Control 157455803 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
-          <source>Displays the primary attribute value.</source>
-          <target state="translated">Prikazuje vrednost primarnog atributa.</target>
+          <source>Specifies the primary attribute value.</source>
+          <target state="needs-l10n">Određuje primarnu vrednost atributa.</target>
           <note from="Developer" annotates="general" priority="2"/>
           <note from="Xliff Generator" annotates="general" priority="3">Page Service Object - Control PrimaryAttributeValueField - Property ToolTip</note>
         </trans-unit>
@@ -18238,26 +18442,26 @@
           <note from="Xliff Generator" annotates="general" priority="3">Page Sub. Billing Activities - Control Balances - Property Caption</note>
         </trans-unit>
         <trans-unit id="Page 2943976702 - Control 1501286198 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
-          <source>Balance between posted Contract Invoices and Contract Credit Memos for Vendor Subscription Contracts in current Month.</source>
-          <target state="translated">Stanje između proknjiženih ugovornih faktura i ugovornih odobrenja za ugovore o pretplati dobavljača u tekućem mesecu.</target>
+          <source>Specifies the Balance between posted Contract Invoices and Contract Credit Memos for Vendor Subscription Contracts in current Month.</source>
+          <target state="needs-l10n">Određuje ravnotežu između objavljenih faktura ugovora i kreditnih memoranduma ugovora za ugovore o pretplati dobavljača u tekućem mesecu.</target>
           <note from="Developer" annotates="general" priority="2"/>
           <note from="Xliff Generator" annotates="general" priority="3">Page Sub. Billing Activities - Control Cost current Month - Property ToolTip</note>
         </trans-unit>
         <trans-unit id="Page 2943976702 - Control 1511912814 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
-          <source>Balance between posted Contract Invoices and Contract Credit Memos for Vendor Subscription Contracts in previous Month.</source>
-          <target state="translated">Stanje između proknjiženih ugovornih faktura i ugovornih odobrenja za ugovore o pretplati dobavljača u prethodnom mesecu.</target>
+          <source>Specifies the Balance between posted Contract Invoices and Contract Credit Memos for Vendor Subscription Contracts in previous Month.</source>
+          <target state="needs-l10n">Određuje ravnotežu između objavljenih faktura ugovora i kreditnih memoranduma ugovora za ugovore o pretplati dobavljača u prethodnom mesecu.</target>
           <note from="Developer" annotates="general" priority="2"/>
           <note from="Xliff Generator" annotates="general" priority="3">Page Sub. Billing Activities - Control Cost previous Month - Property ToolTip</note>
         </trans-unit>
         <trans-unit id="Page 2943976702 - Control 3610570653 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
-          <source>Balance between posted Contract Invoices and Contract Credit Memos for Customer Subscription Contracts in current Month.</source>
-          <target state="translated">Stanje između proknjiženih ugovornih faktura i ugovornih kreditnih odobrenja za ugovore o pretplati kupaca u tekućem mesecu.</target>
+          <source>Specifies the Balance between posted Contract Invoices and Contract Credit Memos for Customer Subscription Contracts in current Month.</source>
+          <target state="needs-l10n">Određuje ravnotežu između objavljenih ugovornih faktura i ugovornih kreditnih memoriški za ugovore o pretplati kupaca u tekućem mesecu.</target>
           <note from="Developer" annotates="general" priority="2"/>
           <note from="Xliff Generator" annotates="general" priority="3">Page Sub. Billing Activities - Control Revenue current Month - Property ToolTip</note>
         </trans-unit>
         <trans-unit id="Page 2943976702 - Control 276338397 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
-          <source>Balance between posted Contract Invoices and Contract Credit Memos for Customer Subscription Contracts in previous Month.</source>
-          <target state="translated">Stanje između proknjiženih ugovornih faktura i ugovornih kreditnih odobrenja za ugovore o pretplati kupaca u prethodnom mesecu.</target>
+          <source>Specifies the Balance between posted Contract Invoices and Contract Credit Memos for Customer Subscription Contracts in previous Month.</source>
+          <target state="needs-l10n">Određuje ravnotežu između objavljenih faktura ugovora i kreditnih memoranduma ugovora za ugovore o pretplati klijenata u prethodnom mesecu.</target>
           <note from="Developer" annotates="general" priority="2"/>
           <note from="Xliff Generator" annotates="general" priority="3">Page Sub. Billing Activities - Control Revenue previous Month - Property ToolTip</note>
         </trans-unit>
@@ -18304,8 +18508,8 @@
           <note from="Xliff Generator" annotates="general" priority="3">Page Sub. Billing Activities - Control Open Posted Documents Customer - Property Caption</note>
         </trans-unit>
         <trans-unit id="Page 2943976702 - Control 1746691598 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
-          <source>Shows Open Customer Subscription Contract Credit Memos.</source>
-          <target state="translated">Prikaz otvorenih prodajnih odobrenja za ugovore o pretplati sa kupcima.</target>
+          <source>Specifies the Open Customer Subscription Contract Credit Memos.</source>
+          <target state="needs-l10n">Određuje kreditne beleške ugovora o pretplati otvorenog kupca.</target>
           <note from="Developer" annotates="general" priority="2"/>
           <note from="Xliff Generator" annotates="general" priority="3">Page Sub. Billing Activities - Control Customer Contract Credit Memos - Property ToolTip</note>
         </trans-unit>
@@ -18316,8 +18520,8 @@
           <note from="Xliff Generator" annotates="general" priority="3">Page Sub. Billing Activities - Control Customer Contract Credit Memos - Property Caption</note>
         </trans-unit>
         <trans-unit id="Page 2943976702 - Control 1902531976 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
-          <source>Shows Open Customer Subscription Contract Invoices.</source>
-          <target state="translated">Prikaz otvorenih prodajnih faktura za ugovore o pretplati sa kupcima.</target>
+          <source>Specifies the Open Customer Subscription Contract Invoices.</source>
+          <target state="needs-l10n">Određuje otvorene fakture ugovora o pretplati kupaca.</target>
           <note from="Developer" annotates="general" priority="2"/>
           <note from="Xliff Generator" annotates="general" priority="3">Page Sub. Billing Activities - Control Customer Contract Invoices - Property ToolTip</note>
         </trans-unit>
@@ -18334,8 +18538,8 @@
           <note from="Xliff Generator" annotates="general" priority="3">Page Sub. Billing Activities - Control Open Posted Documents Vendor - Property Caption</note>
         </trans-unit>
         <trans-unit id="Page 2943976702 - Control 762252438 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
-          <source>Shows Open Vendor Subscription Contract Credit Memos.</source>
-          <target state="translated">Prikaz otvorenih nabavnih odobrenja za ugovore o pretplati sa dobavljačima.</target>
+          <source>Specifies the Open Vendor Subscription Contract Credit Memos.</source>
+          <target state="needs-l10n">Određuje kreditne beleške ugovora o pretplati otvorenog dobavljača.</target>
           <note from="Developer" annotates="general" priority="2"/>
           <note from="Xliff Generator" annotates="general" priority="3">Page Sub. Billing Activities - Control Vendor Contract Credit Memos - Property ToolTip</note>
         </trans-unit>
@@ -18346,8 +18550,8 @@
           <note from="Xliff Generator" annotates="general" priority="3">Page Sub. Billing Activities - Control Vendor Contract Credit Memos - Property Caption</note>
         </trans-unit>
         <trans-unit id="Page 2943976702 - Control 755848336 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
-          <source>Shows Open Vendor Subscription Contract Invoices.</source>
-          <target state="translated">Prikaz otvorenih nabavnih faktura za ugovore o pretplati sa dobavljačima.</target>
+          <source>Specifies the Open Vendor Subscription Contract Invoices.</source>
+          <target state="needs-l10n">Određuje otvorene fakture ugovora o pretplati dobavljača.</target>
           <note from="Developer" annotates="general" priority="2"/>
           <note from="Xliff Generator" annotates="general" priority="3">Page Sub. Billing Activities - Control Vendor Contract Invoices - Property ToolTip</note>
         </trans-unit>
@@ -18364,14 +18568,14 @@
           <note from="Xliff Generator" annotates="general" priority="3">Page Sub. Billing Activities - Control Overdue - Property Caption</note>
         </trans-unit>
         <trans-unit id="Page 2943976702 - Control 4032342524 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
-          <source>Shows Billing Lines for Subscription Lines that have not been called into Posting Documents, yet.</source>
-          <target state="translated">Prikaz redova fakturisanja za redove pretplate koji još nisu uključeni u dokumenta knjiženja.</target>
+          <source>Specifies the Billing Lines for Subscription Lines that have not been called into Posting Documents, yet.</source>
+          <target state="needs-l10n">Određuje linije za naplatu za pretplatničke linije koje još nisu pozvane u dokumente za objavljivanje.</target>
           <note from="Developer" annotates="general" priority="2"/>
           <note from="Xliff Generator" annotates="general" priority="3">Page Sub. Billing Activities - Control Not Invoiced - Property ToolTip</note>
         </trans-unit>
         <trans-unit id="Page 2943976702 - Control 1559365852 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
-          <source>Shows overdue Subscription Lines.</source>
-          <target state="translated">Prikaz dospelih redova pretplate.</target>
+          <source>Specifies the overdue Subscription Lines.</source>
+          <target state="needs-l10n">Određuje zaostale pretplatničke linije.</target>
           <note from="Developer" annotates="general" priority="2"/>
           <note from="Xliff Generator" annotates="general" priority="3">Page Sub. Billing Activities - Control OverdueField - Property ToolTip</note>
         </trans-unit>
@@ -18382,8 +18586,8 @@
           <note from="Xliff Generator" annotates="general" priority="3">Page Sub. Billing Activities - Control Service Commitments without Customer Contract - Property Caption</note>
         </trans-unit>
         <trans-unit id="Page 2943976702 - Control 278878765 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
-          <source>Shows Subscription Lines without Customer Contract.</source>
-          <target state="translated">Prikaz redova pretplate bez ugovora o pretplati sa kupcem.</target>
+          <source>Specifies the Subscription Lines without Customer Contract.</source>
+          <target state="needs-l10n">Određuje linije pretplate bez ugovora sa klijentom.</target>
           <note from="Developer" annotates="general" priority="2"/>
           <note from="Xliff Generator" annotates="general" priority="3">Page Sub. Billing Activities - Control Serv. Comm. wo Cust. Contract - Property ToolTip</note>
         </trans-unit>
@@ -18394,8 +18598,8 @@
           <note from="Xliff Generator" annotates="general" priority="3">Page Sub. Billing Activities - Control Serv. Comm. wo Cust. Contract - Property Caption</note>
         </trans-unit>
         <trans-unit id="Page 2943976702 - Control 2957656709 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
-          <source>Shows Subscription Lines without Vendor Subscription Contract.</source>
-          <target state="translated">Prikaz redova pretplate bez ugovora o pretplati sa dobavljačem.</target>
+          <source>Specifies the Subscription Lines without Vendor Subscription Contract.</source>
+          <target state="needs-l10n">Određuje pretplatničke linije bez ugovora o pretplati dobavljača.</target>
           <note from="Developer" annotates="general" priority="2"/>
           <note from="Xliff Generator" annotates="general" priority="3">Page Sub. Billing Activities - Control Serv. Comm. wo Vend. Contract - Property ToolTip</note>
         </trans-unit>
@@ -19204,56 +19408,56 @@
           <note from="Xliff Generator" annotates="general" priority="3">Page Usage Data Billing Metadata - Property Caption</note>
         </trans-unit>
         <trans-unit id="Page 3096093805 - Control 3532969709 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
-          <source>Indicates which document no. was used to post the associated usage data.</source>
-          <target state="translated">Označava koji br. dokumenta je korišćen za knjiženje povezanih podataka o korišćenju.</target>
+          <source>Specifies which document no. was used to post the associated usage data.</source>
+          <target state="needs-l10n">Određuje koji dokument br. je korišćen za postavljanje povezanih podataka o korišćenju.</target>
           <note from="Developer" annotates="general" priority="2"/>
           <note from="Xliff Generator" annotates="general" priority="3">Page Usage Data Billing Metadata - Control Billing Document No. - Property ToolTip</note>
         </trans-unit>
         <trans-unit id="Page 3096093805 - Control 1771559440 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
-          <source>Indicates which document type was used to post the associated usage data.</source>
-          <target state="translated">Označava koji tip dokumenta je korišćen za knjiženje povezanih podataka o korišćenju.</target>
+          <source>Specifies which document type was used to post the associated usage data.</source>
+          <target state="needs-l10n">Određuje koji tip dokumenta je korišćen za postavljanje povezanih podataka o korišćenju.</target>
           <note from="Developer" annotates="general" priority="2"/>
           <note from="Xliff Generator" annotates="general" priority="3">Page Usage Data Billing Metadata - Control Billing Document Type - Property ToolTip</note>
         </trans-unit>
         <trans-unit id="Page 3096093805 - Control 3015270207 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
-          <source>Indicates whether the related usage data billing is invoiced.</source>
-          <target state="translated">Označava da li se fakturišu povezani podaci o korišćenju.</target>
+          <source>Specifies whether the related usage data billing is invoiced.</source>
+          <target state="needs-l10n">Određuje da li se fakturiše fakturisanje povezanih podataka o korišćenju.</target>
           <note from="Developer" annotates="general" priority="2"/>
           <note from="Xliff Generator" annotates="general" priority="3">Page Usage Data Billing Metadata - Control Invoiced - Property ToolTip</note>
         </trans-unit>
         <trans-unit id="Page 3096093805 - Control 1009323213 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
-          <source>Indicates the date up to which the Subscription Line was originally invoiced.</source>
-          <target state="translated">Označava datum do kojeg je red pretplate prvobitno fakturisan.</target>
+          <source>Specifies the date up to which the Subscription Line was originally invoiced.</source>
+          <target state="needs-l10n">Određuje datum do kojeg je pretplatnička linija prvobitno fakturisana.</target>
           <note from="Developer" annotates="general" priority="2"/>
           <note from="Xliff Generator" annotates="general" priority="3">Page Usage Data Billing Metadata - Control Original Invoiced to Date - Property ToolTip</note>
         </trans-unit>
         <trans-unit id="Page 3096093805 - Control 4002295632 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
-          <source>Indicates whether the related usage data billing comes out of a rebilling scenario.</source>
-          <target state="translated">Označava da li fakturisanje povezanih podataka o korišćenju izlazi iz scenarija ponovnog fakturisanja.</target>
+          <source>Specifies whether the related usage data billing comes out of a rebilling scenario.</source>
+          <target state="needs-l10n">Određuje da li naplata povezanih podataka o korišćenju izlazi iz scenarija ponovnog naplate.</target>
           <note from="Developer" annotates="general" priority="2"/>
           <note from="Xliff Generator" annotates="general" priority="3">Page Usage Data Billing Metadata - Control Rebilling - Property ToolTip</note>
         </trans-unit>
         <trans-unit id="Page 3096093805 - Control 1137103463 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
-          <source>Indicates the number of the related Subscription Line line.</source>
-          <target state="translated">Označava broj povezanog reda pretplate.</target>
+          <source>Specifies the number of the related Subscription Line line.</source>
+          <target state="needs-l10n">Određuje broj povezane linije pretplate.</target>
           <note from="Developer" annotates="general" priority="2"/>
           <note from="Xliff Generator" annotates="general" priority="3">Page Usage Data Billing Metadata - Control Service Commitment Entry No. - Property ToolTip</note>
         </trans-unit>
         <trans-unit id="Page 3096093805 - Control 2617171321 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
-          <source>Indicates the number of the related Subscription.</source>
-          <target state="translated">Označava broj povezane pretplate.</target>
+          <source>Specifies the number of the related Subscription.</source>
+          <target state="needs-l10n">Određuje broj povezane pretplate.</target>
           <note from="Developer" annotates="general" priority="2"/>
           <note from="Xliff Generator" annotates="general" priority="3">Page Usage Data Billing Metadata - Control Service Object No. - Property ToolTip</note>
         </trans-unit>
         <trans-unit id="Page 3096093805 - Control 2893228647 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
-          <source>Indicates the end date of the usage provided by the supplier.</source>
-          <target state="translated">Označava datum završetka korišćenja koji je obezbedio pružaoc.</target>
+          <source>Specifies the end date of the usage provided by the supplier.</source>
+          <target state="needs-l10n">Određuje datum završetka korišćenja obezbeđen od strane dobavljača.</target>
           <note from="Developer" annotates="general" priority="2"/>
           <note from="Xliff Generator" annotates="general" priority="3">Page Usage Data Billing Metadata - Control Supplier Charge End Date - Property ToolTip</note>
         </trans-unit>
         <trans-unit id="Page 3096093805 - Control 512163846 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
-          <source>Indicates the start date of the usage provided by the supplier</source>
-          <target state="translated">Označava datum početka korišćenja koji je obezbedio pružaoc</target>
+          <source>Specifies the start date of the usage provided by the supplier</source>
+          <target state="needs-l10n">Određuje datum početka korišćenja obezbeđen od strane dobavljača</target>
           <note from="Developer" annotates="general" priority="2"/>
           <note from="Xliff Generator" annotates="general" priority="3">Page Usage Data Billing Metadata - Control Supplier Charge Start Date - Property ToolTip</note>
         </trans-unit>
@@ -19444,8 +19648,8 @@
           <note from="Xliff Generator" annotates="general" priority="3">Page Usage Data Billings - Action UsageDataBillingMetadata - Property Caption</note>
         </trans-unit>
         <trans-unit id="Page 110217655 - Action 2234406979 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
-          <source>Category_Report</source>
-          <target state="translated">Izveštaji</target>
+          <source>Report</source>
+          <target state="translated">Izveštaj</target>
           <note from="Developer" annotates="general" priority="2"/>
           <note from="Xliff Generator" annotates="general" priority="3">Page Usage Data Billings - Action Category_Report - Property Caption</note>
         </trans-unit>
@@ -19528,8 +19732,8 @@
           <note from="Xliff Generator" annotates="general" priority="3">Page Usage Data Blobs - Control Usage Data Import Entry No. - Property ToolTip</note>
         </trans-unit>
         <trans-unit id="Page 4072392846 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
-          <source>Usage Data Customers</source>
-          <target state="translated">Kupci podataka o korišćenju</target>
+          <source>Usage Data Supp. Customers</source>
+          <target state="needs-l10n">Podaci o korišćenju Supp. Kupci</target>
           <note from="Developer" annotates="general" priority="2"/>
           <note from="Xliff Generator" annotates="general" priority="3">Page Usage Data Customers - Property Caption</note>
         </trans-unit>
@@ -19810,14 +20014,14 @@
           <note from="Xliff Generator" annotates="general" priority="3">Page Usage Data Generic Import - Control Unit - Property ToolTip</note>
         </trans-unit>
         <trans-unit id="Page 81753491 - Action 4072392846 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
-          <source>Opens the Usage data Customers.</source>
-          <target state="translated">Otvara "Kupce podataka o korišćenju”.</target>
+          <source>Opens the usage data supp. customers.</source>
+          <target state="needs-l10n">Otvara podatke o korišćenju. kupci.</target>
           <note from="Developer" annotates="general" priority="2"/>
           <note from="Xliff Generator" annotates="general" priority="3">Page Usage Data Generic Import - Action Usage Data Customers - Property ToolTip</note>
         </trans-unit>
         <trans-unit id="Page 81753491 - Action 4072392846 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
-          <source>Usage Data Customers</source>
-          <target state="translated">Kupci podataka o korišćenju</target>
+          <source>Usage Data Supp. Customers</source>
+          <target state="needs-l10n">Podaci o korišćenju Supp. Kupci</target>
           <note from="Developer" annotates="general" priority="2"/>
           <note from="Xliff Generator" annotates="general" priority="3">Page Usage Data Generic Import - Action Usage Data Customers - Property Caption</note>
         </trans-unit>
@@ -19882,32 +20086,32 @@
           <note from="Xliff Generator" annotates="general" priority="3">Page Usage Data Imports - Control Entry No. - Property ToolTip</note>
         </trans-unit>
         <trans-unit id="Page 584234461 - Control 501224905 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
-          <source>Displays the number of errors during the creation and processing of Imported Lines.</source>
-          <target state="translated">Prikazuje broj grešaka tokom kreiranja i obrade uvezenih redova.</target>
+          <source>Specifies the number of errors during the creation and processing of Imported Lines.</source>
+          <target state="needs-l10n">Određuje broj grešaka tokom kreiranja i obrade uvezenih linija.</target>
           <note from="Developer" annotates="general" priority="2"/>
           <note from="Xliff Generator" annotates="general" priority="3">Page Usage Data Imports - Control No. of Imported Line Errors - Property ToolTip</note>
         </trans-unit>
         <trans-unit id="Page 584234461 - Control 3198339961 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
-          <source>Displays the number of Imported Lines.</source>
-          <target state="translated">Prikaz broja uvezenih redova.</target>
+          <source>Specifies the number of Imported Lines.</source>
+          <target state="needs-l10n">Određuje broj uvezenih linija.</target>
           <note from="Developer" annotates="general" priority="2"/>
           <note from="Xliff Generator" annotates="general" priority="3">Page Usage Data Imports - Control No. of Imported Lines - Property ToolTip</note>
         </trans-unit>
         <trans-unit id="Page 584234461 - Control 1422948281 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
-          <source>Shows the number of usage data billing errors.</source>
-          <target state="translated">Prikaz broja grešaka pri obračunu na osnovu korišćenja.</target>
+          <source>Specifies the number of usage data billing errors.</source>
+          <target state="needs-l10n">Određuje broj grešaka u naplati podataka o korišćenju.</target>
           <note from="Developer" annotates="general" priority="2"/>
           <note from="Xliff Generator" annotates="general" priority="3">Page Usage Data Imports - Control No. of UD Billing Errors - Property ToolTip</note>
         </trans-unit>
         <trans-unit id="Page 584234461 - Control 333286092 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
-          <source>Displays the number of errors during the creation and processing of Usage Data Billing.</source>
-          <target state="translated">Prikazuje broj grešaka tokom kreiranja i obrade fakturisanja na osnovu korišćenja.</target>
+          <source>Specifies the number of errors during the creation and processing of Usage Data Billing.</source>
+          <target state="needs-l10n">Određuje broj grešaka tokom kreiranja i obrade naplate podataka o korišćenju.</target>
           <note from="Developer" annotates="general" priority="2"/>
           <note from="Xliff Generator" annotates="general" priority="3">Page Usage Data Imports - Control No. of Usage Data Billing - Property ToolTip</note>
         </trans-unit>
         <trans-unit id="Page 584234461 - Control 1653666469 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
-          <source>Shows the number of files of the raw data.</source>
-          <target state="translated">Prikaz broja datoteka sirovih podataka.</target>
+          <source>Specifies the number of files of the raw data.</source>
+          <target state="needs-l10n">Određuje broj fajlova neobrađenih podataka.</target>
           <note from="Developer" annotates="general" priority="2"/>
           <note from="Xliff Generator" annotates="general" priority="3">Page Usage Data Imports - Control No. of Usage Data Blobs - Property ToolTip</note>
         </trans-unit>
@@ -20196,7 +20400,7 @@
         <trans-unit id="Page 1115613703 - NamedType 3271990264" size-unit="char" translate="yes" xml:space="preserve">
           <source>This Supplier Subscription is already connected to Subscription %1 Line %2. Contract extension is not possible.</source>
           <target state="translated">Ova pretplata pružaoca je već povezana sa pretplatom %1, red %2. Proširenje ugovora nije moguće.</target>
-          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Developer" annotates="general" priority="2">%1 = Subscription Header No., %2 = Subscription Line Entry No.</note>
           <note from="Xliff Generator" annotates="general" priority="3">Page Usage Data Subscriptions - NamedType AlreadyConnectedErr</note>
         </trans-unit>
         <trans-unit id="Page 1115613703 - Control 2083503261 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
@@ -20398,8 +20602,8 @@
           <note from="Xliff Generator" annotates="general" priority="3">Page Usage Data Suppliers - Control Type - Property ToolTip</note>
         </trans-unit>
         <trans-unit id="Page 256102894 - Control 1190232844 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
-          <source>Defines whether the sales price from the usage data should be used. If yes, the pricing is overridden on the basis of the Subscription Line.</source>
-          <target state="translated">Definiše da li treba koristiti prodajnu cenu iz podataka o upotrebi. Ako je potvrdno, određivanje cene se prepisuje na osnovu reda pretplate.</target>
+          <source>Specifies whether the sales price from the usage data should be used. If yes, the pricing is overridden on the basis of the Subscription Line.</source>
+          <target state="needs-l10n">Određuje da li treba koristiti prodajnu cenu iz podataka o korišćenju. Ako je odgovor da, cena se poništava na osnovu pretplatničke linije.</target>
           <note from="Developer" annotates="general" priority="2"/>
           <note from="Xliff Generator" annotates="general" priority="3">Page Usage Data Suppliers - Control Unit Price from Import - Property ToolTip</note>
         </trans-unit>
@@ -21828,7 +22032,7 @@
         <trans-unit id="Report 331019953 - NamedType 3491330105" size-unit="char" translate="yes" xml:space="preserve">
           <source>Contract: #1###############\\@2@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@</source>
           <target state="translated">Ugovor: #1###############\\@2@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@</target>
-          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Developer" annotates="general" priority="2">%1=Contract No., %2=Progress</note>
           <note from="Xliff Generator" annotates="general" priority="3">Report Contract Deferrals Release - NamedType ContractProgressTxt</note>
         </trans-unit>
         <trans-unit id="Report 331019953 - NamedType 234497962" size-unit="char" translate="yes" xml:space="preserve">
@@ -21852,7 +22056,7 @@
         <trans-unit id="Report 331019953 - NamedType 1387774250" size-unit="char" translate="yes" xml:space="preserve">
           <source>Release Contract Deferral of %1.</source>
           <target state="translated">Rasknjižavanje razgraničenja ugovora za %1.</target>
-          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Developer" annotates="general" priority="2">%1 = Posting Date in format &lt;Month Text&gt; &lt;Year4&gt;</note>
           <note from="Xliff Generator" annotates="general" priority="3">Report Contract Deferrals Release - NamedType ReleasingOfContractNoTxt</note>
         </trans-unit>
         <trans-unit id="Report 331019953 - Control 2346885236 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
@@ -22084,8 +22288,8 @@
           <note from="Xliff Generator" annotates="general" priority="3">Report Cust. Contr. Def. Analysis - Control DocumentType - Property Caption</note>
         </trans-unit>
         <trans-unit id="Report 2335864938 - Control 3515510917 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
-          <source>Document Posting Date filter in the form of 'Date1..Date2'.</source>
-          <target state="translated">Filter datuma knjiženja dokumenta u obliku 'Datum1.. Datum2'.</target>
+          <source>Specifies the Document Posting Date filter in the form of 'Date1..Date2'.</source>
+          <target state="needs-l10n">Određuje filter Datum objavljivanja dokumenata u obliku 'Date1.. Datum2'.</target>
           <note from="Developer" annotates="general" priority="2"/>
           <note from="Xliff Generator" annotates="general" priority="3">Report Cust. Contr. Def. Analysis - Control EvaluationPeriod - Property ToolTip</note>
         </trans-unit>
@@ -22252,8 +22456,8 @@
           <note from="Xliff Generator" annotates="general" priority="3">Report Select Contract Renewal - Control AddVendorServicesCtrl - Property Caption</note>
         </trans-unit>
         <trans-unit id="Report 103887352 - Control 1007750878 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
-          <source>This Date Filter is used to select then Contract Lines based on the Subscription Line End Date of the Subscription Lines.</source>
-          <target state="translated">Ovaj filter datuma služi za izbor redova ugovora na osnovu datuma završetka reda pretplate.</target>
+          <source>Specifies the Date Filter used to select then Contract Lines based on the Subscription Line End Date of the Subscription Lines.</source>
+          <target state="needs-l10n">Određuje Filter datuma koji se koristi za odabir onda Linije ugovora na osnovu datuma završetka linije pretplate linija pretplate.</target>
           <note from="Developer" annotates="general" priority="2"/>
           <note from="Xliff Generator" annotates="general" priority="3">Report Select Contract Renewal - Control ServiceEndDatePeriodFilterCtrl - Property ToolTip</note>
         </trans-unit>
@@ -22396,8 +22600,8 @@
           <note from="Xliff Generator" annotates="general" priority="3">Report Vend Contr. Def. Analysis - Control DocumentType - Property Caption</note>
         </trans-unit>
         <trans-unit id="Report 4043056652 - Control 3515510917 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
-          <source>Document Posting Date filter in the form of 'Date1..Date2'.</source>
-          <target state="translated">Filter datuma knjiženja dokumenta u obliku 'Datum1.. Datum2'.</target>
+          <source>Specifies the Document Posting Date filter in the form of 'Date1..Date2'.</source>
+          <target state="needs-l10n">Određuje filter Datum objavljivanja dokumenata u obliku 'Date1.. Datum2'.</target>
           <note from="Developer" annotates="general" priority="2"/>
           <note from="Xliff Generator" annotates="general" priority="3">Report Vend Contr. Def. Analysis - Control EvaluationPeriod - Property ToolTip</note>
         </trans-unit>
@@ -22456,8 +22660,8 @@
           <note from="Xliff Generator" annotates="general" priority="3">PageExtension Blanket Sales Order Arch. Sub. - Action ShowSalesServiceCommitmentArchive - Property Caption</note>
         </trans-unit>
         <trans-unit id="PageExtension 1234581291 - Control 150765807 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 1234581291">
-          <source>Shows the number of Subscription Lines for the archived sales line.</source>
-          <target state="translated">Prikaz broja redova pretplate za arhivirani red prodaje.</target>
+          <source>Specifies the number of Subscription Lines for the archived sales line.</source>
+          <target state="needs-l10n">Određuje broj linija pretplate za arhiviranu liniju prodaje.</target>
           <note from="Developer" annotates="general" priority="2"/>
           <note from="Xliff Generator" annotates="general" priority="3">PageExtension Blanket Sales Order Arch. Sub. - Control Service Commitments - Property ToolTip</note>
         </trans-unit>
@@ -22486,8 +22690,8 @@
           <note from="Xliff Generator" annotates="general" priority="3">PageExtension Blanket Sales Order Subform - Action AddSalesServiceCommitment - Property Caption</note>
         </trans-unit>
         <trans-unit id="PageExtension 884441745 - Control 150765807 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 884441745">
-          <source>Shows the number of Subscription Lines for the sales line.</source>
-          <target state="translated">Prikaz broja redova pretplate za red prodaje.</target>
+          <source>Specifies the number of Subscription Lines for the sales line.</source>
+          <target state="needs-l10n">Određuje broj pretplatničkih linija za prodajnu liniju.</target>
           <note from="Developer" annotates="general" priority="2"/>
           <note from="Xliff Generator" annotates="general" priority="3">PageExtension Blanket Sales Order Subform - Control Service Commitments - Property ToolTip</note>
         </trans-unit>
@@ -23074,8 +23278,8 @@
           <note from="Xliff Generator" annotates="general" priority="3">PageExtension Sales Invoice Subform - Action Usage Data - Property Caption</note>
         </trans-unit>
         <trans-unit id="PageExtension 3573230301 - Control 150765807 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 3573230301">
-          <source>Shows the number of Subscription Lines for the sales line.</source>
-          <target state="translated">Prikaz broja redova pretplate za red prodaje.</target>
+          <source>Specifies the number of Subscription Lines for the sales line.</source>
+          <target state="needs-l10n">Određuje broj pretplatničkih linija za prodajnu liniju.</target>
           <note from="Developer" annotates="general" priority="2"/>
           <note from="Xliff Generator" annotates="general" priority="3">PageExtension Sales Line FactBox - Control Service Commitments - Property ToolTip</note>
         </trans-unit>
@@ -23098,8 +23302,8 @@
           <note from="Xliff Generator" annotates="general" priority="3">PageExtension Sales Order Archive Subform - Action ShowSalesServiceCommitmentArchive - Property Caption</note>
         </trans-unit>
         <trans-unit id="PageExtension 4117186890 - Control 150765807 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 4117186890">
-          <source>Shows the number of Subscription Lines for the archived sales line.</source>
-          <target state="translated">Prikaz broja redova pretplate za arhivirani red prodaje.</target>
+          <source>Specifies the number of Subscription Lines for the archived sales line.</source>
+          <target state="needs-l10n">Određuje broj linija pretplate za arhiviranu liniju prodaje.</target>
           <note from="Developer" annotates="general" priority="2"/>
           <note from="Xliff Generator" annotates="general" priority="3">PageExtension Sales Order Archive Subform - Control Service Commitments - Property ToolTip</note>
         </trans-unit>
@@ -23140,8 +23344,8 @@
           <note from="Xliff Generator" annotates="general" priority="3">PageExtension Sales Order Subform - Control Customer Contract No. - Property Caption</note>
         </trans-unit>
         <trans-unit id="PageExtension 2026081320 - Control 150765807 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 2026081320">
-          <source>Shows the number of Subscription Lines for the sales line.</source>
-          <target state="translated">Prikaz broja redova pretplate za red prodaje.</target>
+          <source>Specifies the number of Subscription Lines for the sales line.</source>
+          <target state="needs-l10n">Određuje broj pretplatničkih linija za prodajnu liniju.</target>
           <note from="Developer" annotates="general" priority="2"/>
           <note from="Xliff Generator" annotates="general" priority="3">PageExtension Sales Order Subform - Control Service Commitments - Property ToolTip</note>
         </trans-unit>
@@ -23170,8 +23374,8 @@
           <note from="Xliff Generator" annotates="general" priority="3">PageExtension Sales Quote Archive Subform - Action ShowSalesServiceCommitmentArchive - Property Caption</note>
         </trans-unit>
         <trans-unit id="PageExtension 1893889982 - Control 150765807 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 1893889982">
-          <source>Shows the number of Subscription Lines for the archived sales line.</source>
-          <target state="translated">Prikaz broja redova pretplate za arhivirani red prodaje.</target>
+          <source>Specifies the number of Subscription Lines for the archived sales line.</source>
+          <target state="needs-l10n">Određuje broj linija pretplate za arhiviranu liniju prodaje.</target>
           <note from="Developer" annotates="general" priority="2"/>
           <note from="Xliff Generator" annotates="general" priority="3">PageExtension Sales Quote Archive Subform - Control Service Commitments - Property ToolTip</note>
         </trans-unit>
@@ -23212,8 +23416,8 @@
           <note from="Xliff Generator" annotates="general" priority="3">PageExtension Sales Quote Subform - Control Customer Contract No. - Property Caption</note>
         </trans-unit>
         <trans-unit id="PageExtension 416138076 - Control 150765807 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 416138076">
-          <source>Shows the number of Subscription Lines for the sales line.</source>
-          <target state="translated">Prikaz broja redova pretplate za red prodaje.</target>
+          <source>Specifies the number of Subscription Lines for the sales line.</source>
+          <target state="needs-l10n">Određuje broj pretplatničkih linija za prodajnu liniju.</target>
           <note from="Developer" annotates="general" priority="2"/>
           <note from="Xliff Generator" annotates="general" priority="3">PageExtension Sales Quote Subform - Control Service Commitments - Property ToolTip</note>
         </trans-unit>

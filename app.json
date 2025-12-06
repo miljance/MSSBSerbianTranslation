@@ -35,8 +35,5 @@
   "runtime": "16.0",
   "features": [
     "TranslationFile"
-  ],
-  "supportedLocales": [
-    "sr-Latn-RS"
   ]
 }
