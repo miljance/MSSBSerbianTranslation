@@ -1,2 +1,2 @@
 # MSSBSerbianTranslation
-Serbian Translation for Serbian Language
+Serbian Translation for Subscription Billing
