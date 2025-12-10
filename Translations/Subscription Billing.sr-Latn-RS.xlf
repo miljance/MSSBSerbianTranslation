@@ -2735,7 +2735,7 @@
         </trans-unit>
         <trans-unit id="Table 3124254128 - Field 2735116871 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
           <source>Include Subscription Contract Lines up to Date Formula</source>
-          <target state="translated">Uključiti redove pretplatničkog ugovora do formule datuma</target>
+          <target state="translated">Uključiti redove pretplatničkih ugovora do formule datuma</target>
           <note from="Developer" annotates="general" priority="2"/>
           <note from="Xliff Generator" annotates="general" priority="3">Table Price Update Template - Field InclContrLinesUpToDateFormula - Property Caption</note>
         </trans-unit>
@@ -2747,7 +2747,7 @@
         </trans-unit>
         <trans-unit id="Table 3124254128 - Field 1447426057 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
           <source>Perform Update on Formula</source>
-          <target state="translated">Primena ažuriranja po formuli</target>
+          <target state="translated">Primeni ažuriranja po formuli</target>
           <note from="Developer" annotates="general" priority="2"/>
           <note from="Xliff Generator" annotates="general" priority="3">Table Price Update Template - Field Perform Update on Formula - Property Caption</note>
         </trans-unit>
@@ -3773,13 +3773,13 @@
         </trans-unit>
         <trans-unit id="Table 4053954517 - Field 3459813037 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
           <source>Customer Subscription Contract Credit Memos</source>
-          <target state="translated">Odobrenja pretplatničkog ugovora (kupac)</target>
+          <target state="translated">Prodajna odobrenja pretplatničkih ugovora</target>
           <note from="Developer" annotates="general" priority="2"/>
           <note from="Xliff Generator" annotates="general" priority="3">Table Subscription Billing Cue - Field Cust. Sub. Contr. Credit Memos - Property Caption</note>
         </trans-unit>
         <trans-unit id="Table 4053954517 - Field 2534260295 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
           <source>Customer Subscription Contract Invoices</source>
-          <target state="translated">Fakture pretplatničkog ugovora (kupac)</target>
+          <target state="translated">Prodajne fakture pretplatničkih ugovora</target>
           <note from="Developer" annotates="general" priority="2"/>
           <note from="Xliff Generator" annotates="general" priority="3">Table Subscription Billing Cue - Field Cust. Sub. Contr. Invoices - Property Caption</note>
         </trans-unit>
@@ -3851,13 +3851,13 @@
         </trans-unit>
         <trans-unit id="Table 4053954517 - Field 1975518115 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
           <source>Vendor Subscription Contract Credit Memos</source>
-          <target state="translated">Odobrenja pretplatničkog ugovora sa dobavljačem</target>
+          <target state="translated">Nabavna odobrenja pretplatničkih ugovora</target>
           <note from="Developer" annotates="general" priority="2"/>
           <note from="Xliff Generator" annotates="general" priority="3">Table Subscription Billing Cue - Field Vend. Contr. Credit Memos - Property Caption</note>
         </trans-unit>
         <trans-unit id="Table 4053954517 - Field 1565780847 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
           <source>Vendor Subscription Contract Invoices</source>
-          <target state="translated">Fakture pretplatničkog ugovora sa dobavljačima</target>
+          <target state="translated">Nabavne fakture pretplatničkih ugovora</target>
           <note from="Developer" annotates="general" priority="2"/>
           <note from="Xliff Generator" annotates="general" priority="3">Table Subscription Billing Cue - Field Vend. Sub. Contr. Invoices - Property Caption</note>
         </trans-unit>
@@ -7475,7 +7475,7 @@
         </trans-unit>
         <trans-unit id="Codeunit 963234558 - Method 2415148647 - NamedType 3053587524" size-unit="char" translate="yes" xml:space="preserve">
           <source>%1 %2 has been created.\\Do you want to open the document?</source>
-          <target state="translated">%1 %2 je kreiran.\\Da li želite da otvorite dokument?</target>
+          <target state="translated">%1 %2 je kreirana.\\Da li želite da otvorite dokument?</target>
           <note from="Developer" annotates="general" priority="2">%1=Document Type, %2=No.</note>
           <note from="Xliff Generator" annotates="general" priority="3">Codeunit Create Sub. Contract Renewal - Method OpenSalesQuotes - NamedType OpenSingleQst</note>
         </trans-unit>
@@ -10049,7 +10049,7 @@
         </trans-unit>
         <trans-unit id="Page 3087694586 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
           <source>Subscription Contract Price Update</source>
-          <target state="translated">Ažuriranje cena pretplatničkog ugovora</target>
+          <target state="translated">Ažuriranje cena pretplatničkih ugovora</target>
           <note from="Developer" annotates="general" priority="2"/>
           <note from="Xliff Generator" annotates="general" priority="3">Page Contract Price Update - Property Caption</note>
         </trans-unit>
@@ -10961,7 +10961,7 @@
         </trans-unit>
         <trans-unit id="Page 1304685356 - Control 4268418197 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
           <source>Open Document</source>
-          <target state="translated">Otvorena dokumenta</target>
+          <target state="translated">Otvori dokument</target>
           <note from="Developer" annotates="general" priority="2"/>
           <note from="Xliff Generator" annotates="general" priority="3">Page Create Billing Document - Control OpenDocument - Property Caption</note>
         </trans-unit>
@@ -10973,7 +10973,7 @@
         </trans-unit>
         <trans-unit id="Page 1304685356 - Control 2172547201 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
           <source>Post Document</source>
-          <target state="translated">Knjiženje dokumenta</target>
+          <target state="translated">Knjiži dokument</target>
           <note from="Developer" annotates="general" priority="2"/>
           <note from="Xliff Generator" annotates="general" priority="3">Page Create Billing Document - Control PostDocument - Property Caption</note>
         </trans-unit>
@@ -11021,7 +11021,7 @@
         </trans-unit>
         <trans-unit id="Page 1961159340 - Control 110177496 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
           <source>Post Document(s)</source>
-          <target state="translated">Knjiženje dokumenata</target>
+          <target state="translated">Knjiži dokumente</target>
           <note from="Developer" annotates="general" priority="2"/>
           <note from="Xliff Generator" annotates="general" priority="3">Page Create Customer Billing Docs - Control PostDocuments - Property Caption</note>
         </trans-unit>
@@ -11111,7 +11111,7 @@
         </trans-unit>
         <trans-unit id="Page 3375964247 - Control 2172547201 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
           <source>Post Document</source>
-          <target state="translated">Knjiženje dokumenta</target>
+          <target state="translated">Knjiži dokument</target>
           <note from="Developer" annotates="general" priority="2"/>
           <note from="Xliff Generator" annotates="general" priority="3">Page Create Usage B. Cust. B. Docs - Control PostDocument - Property Caption</note>
         </trans-unit>
@@ -11879,7 +11879,7 @@
         </trans-unit>
         <trans-unit id="Page 1844147434 - Action 2863782950 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
           <source>Customer Subscription Contract Deferrals</source>
-          <target state="translated">Razgraničenja pretplatničkog ugovora sa kupcem</target>
+          <target state="translated">Razgraničenja pretplatničkog ugovora</target>
           <note from="Developer" annotates="general" priority="2"/>
           <note from="Xliff Generator" annotates="general" priority="3">Page Customer Contract - Action Customer Contract Deferrals - Property Caption</note>
         </trans-unit>
@@ -13169,7 +13169,7 @@
         </trans-unit>
         <trans-unit id="Page 3293790807 - Action 2863782950 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
           <source>Customer Subscription Contract Deferrals</source>
-          <target state="translated">Razgraničenja pretplatničkog ugovora sa kupcem</target>
+          <target state="translated">Razgraničenja pretplatničkog ugovora</target>
           <note from="Developer" annotates="general" priority="2"/>
           <note from="Xliff Generator" annotates="general" priority="3">Page Customer Contracts - Action Customer Contract Deferrals - Property Caption</note>
         </trans-unit>
@@ -18773,7 +18773,7 @@
         </trans-unit>
         <trans-unit id="Page 2030015066 - Action 4144172637 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
           <source>Posted Customer Subscription Contract Credit Memos</source>
-          <target state="translated">Proknjižena odobrenja pretplatničkog ugovora sa kupcem</target>
+          <target state="translated">Proknjižena prodajna odobrenja pretplatničkih ugovora</target>
           <note from="Developer" annotates="general" priority="2"/>
           <note from="Xliff Generator" annotates="general" priority="3">Page Sub. Billing Role Center - Action Posted Customer Contract Credit Memos - Property Caption</note>
         </trans-unit>
@@ -18785,7 +18785,7 @@
         </trans-unit>
         <trans-unit id="Page 2030015066 - Action 3331166359 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
           <source>Posted Customer Subscription Contract Invoices</source>
-          <target state="translated">Proknjižene fakture pretplatničkog ugovora sa kupcem</target>
+          <target state="translated">Proknjižene prodajne fakture pretplatničkih ugovora</target>
           <note from="Developer" annotates="general" priority="2"/>
           <note from="Xliff Generator" annotates="general" priority="3">Page Sub. Billing Role Center - Action Posted Customer Contract Invoices - Property Caption</note>
         </trans-unit>
@@ -18797,7 +18797,7 @@
         </trans-unit>
         <trans-unit id="Page 2030015066 - Action 3619973141 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
           <source>Posted Vendor Subscription Contract Credit Memos</source>
-          <target state="translated">Proknjižena odobrenja pretplatničkog ugovora sa dobavljačem</target>
+          <target state="translated">Proknjižena nabavna odobrenja pretplatničkih ugovora</target>
           <note from="Developer" annotates="general" priority="2"/>
           <note from="Xliff Generator" annotates="general" priority="3">Page Sub. Billing Role Center - Action Posted Vendor Contract Credit Memos - Property Caption</note>
         </trans-unit>
@@ -18809,7 +18809,7 @@
         </trans-unit>
         <trans-unit id="Page 2030015066 - Action 3981341871 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
           <source>Posted Vendor Subscription Contract Invoices</source>
-          <target state="translated">Proknjižene fakture pretplatničkog ugovora sa dobavljačem</target>
+          <target state="translated">Proknjižene nabavne fakture pretplatničkih ugovora</target>
           <note from="Developer" annotates="general" priority="2"/>
           <note from="Xliff Generator" annotates="general" priority="3">Page Sub. Billing Role Center - Action Posted Vendor Contract Invoices - Property Caption</note>
         </trans-unit>
@@ -20231,13 +20231,13 @@
         </trans-unit>
         <trans-unit id="Page 584234461 - Action 3513153160 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
           <source>Customer Subscription Contract Invoices</source>
-          <target state="translated">Fakture pretplatničkog ugovora (kupci)</target>
+          <target state="translated">Prodajne fakture pretplatničkih ugovora</target>
           <note from="Developer" annotates="general" priority="2"/>
           <note from="Xliff Generator" annotates="general" priority="3">Page Usage Data Imports - Action CustomerContractInvoices - Property Caption</note>
         </trans-unit>
         <trans-unit id="Page 584234461 - Action 2314791343 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
           <source>Opens the Customer Subscription Contracts that are related to this import.</source>
-          <target state="translated">Otvarapretplatničke ugovore sa kupcima koji su povezani sa ovim uvozom.</target>
+          <target state="translated">Otvara pretplatničke ugovore sa kupcima koji su povezani sa ovim uvozom.</target>
           <note from="Developer" annotates="general" priority="2"/>
           <note from="Xliff Generator" annotates="general" priority="3">Page Usage Data Imports - Action CustomerContracts - Property ToolTip</note>
         </trans-unit>
@@ -20255,7 +20255,7 @@
         </trans-unit>
         <trans-unit id="Page 584234461 - Action 4177973127 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
           <source>Posted Customer Subscription Contract Invoices</source>
-          <target state="translated">Proknjižene fakture pretplatničkog ugovora sa kupcem</target>
+          <target state="translated">Proknjižene prodajne fakture pretplatničkih ugovora</target>
           <note from="Developer" annotates="general" priority="2"/>
           <note from="Xliff Generator" annotates="general" priority="3">Page Usage Data Imports - Action PostedCustomerContractInvoices - Property Caption</note>
         </trans-unit>
@@ -20267,7 +20267,7 @@
         </trans-unit>
         <trans-unit id="Page 584234461 - Action 616505503 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
           <source>Posted Vendor Subscription Contract Invoices</source>
-          <target state="translated">Proknjižene fakture pretplatničkog ugovora dobavljačem</target>
+          <target state="translated">Proknjižene nabavne fakture pretplatničkih ugovora</target>
           <note from="Developer" annotates="general" priority="2"/>
           <note from="Xliff Generator" annotates="general" priority="3">Page Usage Data Imports - Action PostedVendorContractInvoices - Property Caption</note>
         </trans-unit>
@@ -20279,7 +20279,7 @@
         </trans-unit>
         <trans-unit id="Page 584234461 - Action 274305264 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
           <source>Vendor Subscription Contract Invoices</source>
-          <target state="translated">Fakture pretplatničkog ugovora sa dobavljačima</target>
+          <target state="translated">Nabavne fakture pretplatničkih ugovora</target>
           <note from="Developer" annotates="general" priority="2"/>
           <note from="Xliff Generator" annotates="general" priority="3">Page Usage Data Imports - Action VendorContractInvoices - Property Caption</note>
         </trans-unit>
@@ -21191,13 +21191,13 @@
         </trans-unit>
         <trans-unit id="Page 2335879890 - Action 1336830366 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
           <source>Vendor Subscription Contract Deferrals.</source>
-          <target state="translated">Razgraničenja pretplatničkog ugovora sa dobavljačima.</target>
+          <target state="translated">Razgraničenja pretplatničkog ugovora.</target>
           <note from="Developer" annotates="general" priority="2"/>
           <note from="Xliff Generator" annotates="general" priority="3">Page Vendor Contract - Action Vendor Contract Deferrals - Property ToolTip</note>
         </trans-unit>
         <trans-unit id="Page 2335879890 - Action 1336830366 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
           <source>Vendor Subscription Contract Deferrals</source>
-          <target state="translated">Razgraničenja pretplatničkog ugovora sa dobavljačima</target>
+          <target state="translated">Razgraničenja pretplatničkog ugovora</target>
           <note from="Developer" annotates="general" priority="2"/>
           <note from="Xliff Generator" annotates="general" priority="3">Page Vendor Contract - Action Vendor Contract Deferrals - Property Caption</note>
         </trans-unit>
@@ -21989,13 +21989,13 @@
         </trans-unit>
         <trans-unit id="Page 963871647 - Action 1336830366 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
           <source>Vendor Subscription Contract Deferrals.</source>
-          <target state="translated">Razgraničenja pretplatničkog ugovora sa dobavljačima.</target>
+          <target state="translated">Razgraničenja pretplatničkog ugovora.</target>
           <note from="Developer" annotates="general" priority="2"/>
           <note from="Xliff Generator" annotates="general" priority="3">Page Vendor Contracts - Action Vendor Contract Deferrals - Property ToolTip</note>
         </trans-unit>
         <trans-unit id="Page 963871647 - Action 1336830366 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
           <source>Vendor Subscription Contract Deferrals</source>
-          <target state="translated">Razgraničenja pretplatničkog ugovora sa dobavljačima</target>
+          <target state="translated">Razgraničenja pretplatničkog ugovora</target>
           <note from="Developer" annotates="general" priority="2"/>
           <note from="Xliff Generator" annotates="general" priority="3">Page Vendor Contracts - Action Vendor Contract Deferrals - Property Caption</note>
         </trans-unit>
